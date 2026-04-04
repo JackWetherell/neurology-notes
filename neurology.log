@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.4.20)  14 APR 2026 23:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.4.20)  14 APR 2026 23:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -659,16 +659,25 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ) (./neurology.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 2.
-)
-\tf@toc=\write4
-\openout4 = `neurology.toc'.
-
 
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts
-/enc/dvips/lm/lm-rm.enc}]
+/enc/dvips/lm/lm-rm.enc}])
+\tf@toc=\write4
+\openout4 = `neurology.toc'.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[2]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 6
 8.
  (/usr/share/texmf-dist/tex/latex/lm/ts1lmr.fd
@@ -682,16 +691,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[2{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[3]
+[3{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -727,30 +727,72 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[7] (./neurology.aux)
+[7]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[8]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[9{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf-dis
+t/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm
+-mathex.enc}]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[10]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[11] (./neurology.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `neurology.out' has not changed.
-(rerunfilecheck)             Checksum: F6C339D173EA0CC4D05EDD7FAC156C65;4086.
+(rerunfilecheck)             Checksum: EDCE0FE0827EBB4C692E5BDB7404F60C;6351.
  ) 
 Here is how much of TeX's memory you used:
- 16931 strings out of 475171
- 266851 string characters out of 5767095
- 717383 words of memory out of 5000000
- 39596 multiletter control sequences out of 15000+600000
- 595801 words of font info for 110 fonts, out of 8000000 for 9000
+ 16975 strings out of 475171
+ 267524 string characters out of 5767095
+ 724385 words of memory out of 5000000
+ 39613 multiletter control sequences out of 15000+600000
+ 596050 words of font info for 113 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,12n,79p,1006b,536s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dis
 t/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm
-/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/t
-exmf-dist/fonts/type1/public/lm/lmri12.pfb>
-Output written on neurology.pdf (7 pages, 149161 bytes).
+/lmex10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share
+/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/share/texmf-dist/fonts/type1/
+public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr12.pfb></us
+r/share/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf-dist/fonts/
+type1/public/lm/lmri12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.
+pfb>
+Output written on neurology.pdf (11 pages, 200707 bytes).
 PDF statistics:
- 207 PDF objects out of 1000 (max. 8388607)
- 185 compressed objects within 2 object streams
- 34 named destinations out of 1000 (max. 500000)
- 20689 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 327 PDF objects out of 1000 (max. 8388607)
+ 290 compressed objects within 3 object streams
+ 52 named destinations out of 1000 (max. 500000)
+ 20801 words of extra memory for PDF output out of 24883 (max. 10000000)
 

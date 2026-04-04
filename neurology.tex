@@ -345,5 +345,162 @@ Neuron structure is highly specialized to support rapid and efficient communicat
 
 Understanding neuronal structure is essential for studying how neurons generate and transmit signals, which is explored in the next section on neuron firing.
 
+\section{Neuron Firing}
+
+Neuron firing refers to the process by which neurons generate and transmit electrical signals. This involves changes in the membrane potential due to the movement of ions across the neuronal membrane. These electrical signals allow neurons to communicate rapidly and efficiently.
+
+\subsection{Resting Membrane Potential}
+
+The resting membrane potential is the electrical potential difference across the membrane of a neuron when it is not actively firing. It is typically around:
+
+\[
+V_m \approx -70 \, \text{mV}
+\]
+
+This negative potential arises due to:
+\begin{itemize}
+    \item Unequal distribution of ions (Na\textsuperscript{+}, K\textsuperscript{+}, Cl\textsuperscript{--})
+    \item Selective permeability of the membrane (more permeable to K\textsuperscript{+})
+    \item The activity of the Na\textsuperscript{+}/K\textsuperscript{+} ATPase pump (3 Na\textsuperscript{+} out, 2 K\textsuperscript{+} in)
+\end{itemize}
+
+\subsubsection{Nernst Equation}
+
+The equilibrium potential for a single ion can be calculated using the Nernst equation:
+
+:contentReference[oaicite:0]{index=0}
+
+At body temperature (37°C), this simplifies to:
+
+\[
+E_{ion} \approx \frac{61}{z} \log \left( \frac{[ion]_{out}}{[ion]_{in}} \right) \, \text{mV}
+\]
+
+\subsubsection{Typical Ion Equilibrium Potentials}
+
+\begin{itemize}
+    \item Potassium (K\textsuperscript{+}): $\approx -90$ mV
+    \item Sodium (Na\textsuperscript{+}): $\approx +60$ mV
+    \item Chloride (Cl\textsuperscript{--}): $\approx -65$ mV
+\end{itemize}
+
+The resting membrane potential is closest to the potassium equilibrium potential because the membrane is most permeable to K\textsuperscript{+} at rest.
+
+\subsection{Graded Potentials}
+
+Graded potentials are small changes in membrane potential that occur in dendrites and the soma.
+
+Characteristics:
+\begin{itemize}
+    \item Can be depolarizing (less negative) or hyperpolarizing (more negative)
+    \item Decrease in strength with distance (not all-or-none)
+    \item Summate spatially and temporally
+\end{itemize}
+
+Examples:
+\begin{itemize}
+    \item Excitatory postsynaptic potentials (EPSPs): move membrane toward threshold
+    \item Inhibitory postsynaptic potentials (IPSPs): move membrane away from threshold
+\end{itemize}
+
+\subsection{Action Potentials}
+
+An action potential is a rapid, all-or-none electrical signal that travels along the axon.
+
+\subsubsection{Threshold}
+
+If the membrane potential reaches approximately:
+
+\[
+-55 \, \text{mV}
+\]
+
+voltage-gated Na\textsuperscript{+} channels open, initiating the action potential.
+
+\subsubsection{Phases of the Action Potential}
+
+\textbf{1. Resting State} ($\approx -70$ mV)
+\begin{itemize}
+    \item Voltage-gated channels closed
+    \item Leak channels maintain resting potential
+\end{itemize}
+
+\textbf{2. Depolarization} (up to $\approx +30$ mV)
+\begin{itemize}
+    \item Rapid opening of voltage-gated Na\textsuperscript{+} channels
+    \item Na\textsuperscript{+} influx drives membrane potential toward $E_{Na}$ ($\approx +60$ mV)
+\end{itemize}
+
+\textbf{3. Repolarization}
+\begin{itemize}
+    \item Na\textsuperscript{+} channels inactivate
+    \item Voltage-gated K\textsuperscript{+} channels open
+    \item K\textsuperscript{+} exits the cell
+\end{itemize}
+
+\textbf{4. Hyperpolarization} ($\approx -80$ to $-90$ mV)
+\begin{itemize}
+    \item Continued K\textsuperscript{+} efflux
+    \item Membrane approaches $E_K$
+\end{itemize}
+
+\textbf{5. Return to Rest}
+\begin{itemize}
+    \item K\textsuperscript{+} channels close
+    \item Na\textsuperscript{+}/K\textsuperscript{+} pump restores ion gradients
+\end{itemize}
+
+\subsection{Neurotransmitter Release}
+
+When an action potential reaches the axon terminal:
+
+\begin{itemize}
+    \item Voltage-gated Ca\textsuperscript{2+} channels open
+    \item Ca\textsuperscript{2+} enters the terminal
+    \item This triggers vesicle fusion via SNARE proteins
+    \item Neurotransmitters are released into the synaptic cleft
+\end{itemize}
+
+The amount of neurotransmitter released is proportional to calcium influx.
+
+\subsection{Reuptake}
+
+After release, neurotransmitters must be cleared from the synapse to terminate the signal.
+
+Mechanisms include:
+\begin{itemize}
+    \item \textbf{Reuptake}: Transport back into the presynaptic neuron
+    \item \textbf{Enzymatic degradation}: e.g., acetylcholine broken down by acetylcholinesterase
+    \item \textbf{Diffusion}: Away from the synaptic cleft
+\end{itemize}
+
+Reuptake is a key target for many drugs (e.g., SSRIs for serotonin).
+
+\subsection{Refractory Periods}
+
+After an action potential, the neuron enters a refractory period:
+
+\subsubsection{Absolute Refractory Period}
+\begin{itemize}
+    \item No new action potential can be generated
+    \item Due to inactivation of Na\textsuperscript{+} channels
+\end{itemize}
+
+\subsubsection{Relative Refractory Period}
+\begin{itemize}
+    \item A stronger-than-normal stimulus is required
+    \item Occurs during hyperpolarization
+\end{itemize}
+
+These periods ensure:
+\begin{itemize}
+    \item Unidirectional propagation of action potentials
+    \item Controlled firing frequency
+\end{itemize}
+
+\subsection{Summary}
+
+Neuron firing is a tightly regulated process involving ion movement across the membrane. The resting membrane potential is primarily determined by potassium permeability, while action potentials arise from rapid changes in sodium and potassium conductance. The Nernst equation provides a quantitative understanding of ion equilibrium potentials, which underpin neuronal excitability. Neurotransmitter release and reuptake enable communication between neurons, while refractory periods ensure proper signal timing and direction.
+
 
 \end{document}
