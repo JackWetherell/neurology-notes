@@ -38,3 +38,53 @@
 \contentsline {subsubsection}{\numberline {3.6.1}Absolute Refractory Period}{11}{subsubsection.3.6.1}%
 \contentsline {subsubsection}{\numberline {3.6.2}Relative Refractory Period}{11}{subsubsection.3.6.2}%
 \contentsline {subsection}{\numberline {3.7}Summary}{11}{subsection.3.7}%
+\contentsline {section}{\numberline {4}Glial Cells}{11}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Astrocytes and Satellite Cells}{12}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Astrocytes}{12}{subsubsection.4.1.1}%
+\contentsline {paragraph}{1. Structural support}{12}{subsubsection.4.1.1}%
+\contentsline {paragraph}{2. Regulation of the extracellular ionic environment}{12}{subsubsection.4.1.1}%
+\contentsline {paragraph}{3. Neurotransmitter uptake and recycling}{12}{subsubsection.4.1.1}%
+\contentsline {paragraph}{4. Metabolic support for neurons}{13}{subsubsection.4.1.1}%
+\contentsline {paragraph}{5. Contribution to the blood-brain barrier}{13}{subsubsection.4.1.1}%
+\contentsline {paragraph}{6. Modulation of synaptic activity}{13}{subsubsection.4.1.1}%
+\contentsline {paragraph}{7. Response to injury}{13}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Satellite Cells}{14}{subsubsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.2}Oligodendrocytes}{14}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Functions of oligodendrocytes}{14}{subsubsection.4.2.1}%
+\contentsline {paragraph}{1. Myelin production}{14}{subsubsection.4.2.1}%
+\contentsline {paragraph}{2. Support of axonal integrity}{14}{subsubsection.4.2.1}%
+\contentsline {paragraph}{3. Organization of nodal architecture}{14}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Clinical significance}{15}{subsubsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.3}Schwann Cells}{15}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Myelinating Schwann cells}{15}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}Non-myelinating Schwann cells}{15}{subsubsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3}Functions of Schwann cells}{15}{subsubsection.4.3.3}%
+\contentsline {paragraph}{1. Myelination in the PNS}{15}{subsubsection.4.3.3}%
+\contentsline {paragraph}{2. Support for axonal regeneration}{16}{subsubsection.4.3.3}%
+\contentsline {paragraph}{3. Maintenance of axonal health}{16}{subsubsection.4.3.3}%
+\contentsline {subsubsection}{\numberline {4.3.4}Clinical significance}{16}{subsubsection.4.3.4}%
+\contentsline {subsection}{\numberline {4.4}Myelin}{16}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}Composition of myelin}{16}{subsubsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.2}How myelin increases conduction velocity}{16}{subsubsection.4.4.2}%
+\contentsline {subsubsection}{\numberline {4.4.3}Nodes of Ranvier}{17}{subsubsection.4.4.3}%
+\contentsline {subsubsection}{\numberline {4.4.4}Consequences of demyelination}{17}{subsubsection.4.4.4}%
+\contentsline {subsection}{\numberline {4.5}Ependymal Cells}{17}{subsection.4.5}%
+\contentsline {subsubsection}{\numberline {4.5.1}Location}{17}{subsubsection.4.5.1}%
+\contentsline {subsubsection}{\numberline {4.5.2}Functions}{17}{subsubsection.4.5.2}%
+\contentsline {paragraph}{1. CSF production}{17}{subsubsection.4.5.2}%
+\contentsline {paragraph}{2. CSF circulation}{18}{subsubsection.4.5.2}%
+\contentsline {paragraph}{3. Barrier and exchange functions}{18}{subsubsection.4.5.2}%
+\contentsline {subsubsection}{\numberline {4.5.3}Clinical significance}{18}{subsubsection.4.5.3}%
+\contentsline {subsection}{\numberline {4.6}Microglia}{18}{subsection.4.6}%
+\contentsline {subsubsection}{\numberline {4.6.1}Functions of microglia}{18}{subsubsection.4.6.1}%
+\contentsline {paragraph}{1. Immune surveillance}{18}{subsubsection.4.6.1}%
+\contentsline {paragraph}{2. Phagocytosis}{18}{subsubsection.4.6.1}%
+\contentsline {paragraph}{3. Inflammatory signaling}{18}{subsubsection.4.6.1}%
+\contentsline {paragraph}{4. Synaptic pruning}{18}{subsubsection.4.6.1}%
+\contentsline {subsubsection}{\numberline {4.6.2}Activation states}{18}{subsubsection.4.6.2}%
+\contentsline {subsubsection}{\numberline {4.6.3}Clinical significance}{19}{subsubsection.4.6.3}%
+\contentsline {subsection}{\numberline {4.7}Comparison of CNS and PNS Glia}{19}{subsection.4.7}%
+\contentsline {paragraph}{CNS glia}{19}{subsection.4.7}%
+\contentsline {paragraph}{PNS glia}{19}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}Functional Importance of Glia in Nervous System Physiology}{19}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9}Summary}{20}{subsection.4.9}%
