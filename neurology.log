@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.4.20)  14 APR 2026 23:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.4.20)  14 APR 2026 23:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -846,20 +846,63 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[20] (./neurology.aux)
+[20]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[21]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[22]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[23]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[24] (./neurology.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-Package rerunfilecheck Info: File `neurology.out' has not changed.
-(rerunfilecheck)             Checksum: 727E4CF61FA8D330B86FF0DDEE64F68D;11151.
+
+
+Package rerunfilecheck Warning: File `neurology.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `neurology.out':
+(rerunfilecheck)             Before: 727E4CF61FA8D330B86FF0DDEE64F68D;11151
+(rerunfilecheck)             After:  E1174BDA17423DC42EE4705F75E0C424;14900.
  ) 
 Here is how much of TeX's memory you used:
- 17094 strings out of 475171
- 269221 string characters out of 5767095
+ 17125 strings out of 475171
+ 269703 string characters out of 5767095
  724385 words of memory out of 5000000
  39646 multiletter control sequences out of 15000+600000
- 602569 words of font info for 138 fonts, out of 8000000 for 9000
+ 602696 words of font info for 139 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,12n,79p,1006b,538s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dis
@@ -870,10 +913,10 @@ public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr12.pfb></us
 r/share/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf-dist/fonts/
 type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri12.
 pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on neurology.pdf (20 pages, 244220 bytes).
+Output written on neurology.pdf (24 pages, 253971 bytes).
 PDF statistics:
- 519 PDF objects out of 1000 (max. 8388607)
- 469 compressed objects within 5 object streams
- 89 named destinations out of 1000 (max. 500000)
+ 567 PDF objects out of 1000 (max. 8388607)
+ 512 compressed objects within 6 object streams
+ 118 named destinations out of 1000 (max. 500000)
  23073 words of extra memory for PDF output out of 24883 (max. 10000000)
 
