@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.4.20)  15 APR 2026 00:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.4.20)  27 APR 2026 10:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -870,22 +870,49 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[22] (./neurology.aux)
+[22]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[23]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[24]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[25] (./neurology.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `neurology.out' has not changed.
-(rerunfilecheck)             Checksum: 8A5D5686D1EC78BEA4B9199C54590862;12743.
+(rerunfilecheck)             Checksum: A0821CEF1ABD47A650095D476D5469C5;14823.
  ) 
 Here is how much of TeX's memory you used:
- 17168 strings out of 475171
- 270118 string characters out of 5767095
+ 17205 strings out of 475171
+ 270665 string characters out of 5767095
  724401 words of memory out of 5000000
- 39656 multiletter control sequences out of 15000+600000
- 608239 words of font info for 166 fonts, out of 8000000 for 9000
+ 39668 multiletter control sequences out of 15000+600000
+ 608734 words of font info for 171 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,12n,79p,1006b,542s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,1062b,544s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dis
 t/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm
 /lmbx8.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/share/
@@ -896,10 +923,10 @@ r/share/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf-dist/fonts
 fb></usr/share/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf-di
 st/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/l
 m/lmsy8.pfb>
-Output written on neurology.pdf (22 pages, 286617 bytes).
+Output written on neurology.pdf (25 pages, 300595 bytes).
 PDF statistics:
- 575 PDF objects out of 1000 (max. 8388607)
- 518 compressed objects within 6 object streams
- 98 named destinations out of 1000 (max. 500000)
- 25177 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 651 PDF objects out of 1000 (max. 8388607)
+ 591 compressed objects within 6 object streams
+ 113 named destinations out of 1000 (max. 500000)
+ 25273 words of extra memory for PDF output out of 29859 (max. 10000000)
 

@@ -89,3 +89,15 @@
 \contentsline {subsubsection}{\numberline {5.6.2}Connections}{21}{subsubsection.5.6.2}%
 \contentsline {subsubsection}{\numberline {5.6.3}Phineas Gage and the Clinical Picture}{22}{subsubsection.5.6.3}%
 \contentsline {subsection}{\numberline {5.7}Summary}{22}{subsection.5.7}%
+\contentsline {section}{\numberline {6}The Parietal Lobe}{22}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Anatomical Landmarks}{22}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Primary Somatosensory Cortex (S1)}{23}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}The Sensory Homunculus}{23}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}Microanatomy}{23}{subsubsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.3}Clinical Picture}{24}{subsubsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.3}Somatosensory Association Cortex}{24}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Posterior Parietal Cortex}{24}{subsection.6.4}%
+\contentsline {subsubsection}{\numberline {6.4.1}Hemispatial Neglect}{25}{subsubsection.6.4.1}%
+\contentsline {subsubsection}{\numberline {6.4.2}Gerstmann Syndrome}{25}{subsubsection.6.4.2}%
+\contentsline {subsubsection}{\numberline {6.4.3}Optic Ataxia and Balint's Syndrome}{25}{subsubsection.6.4.3}%
+\contentsline {subsection}{\numberline {6.5}Summary}{25}{subsection.6.5}%
