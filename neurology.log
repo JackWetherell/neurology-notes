@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.4.20)  27 APR 2026 10:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.4.20)  27 APR 2026 10:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -664,7 +664,16 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts
-/enc/dvips/lm/lm-rm.enc}])
+/enc/dvips/lm/lm-rm.enc}]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[2])
 \tf@toc=\write4
 \openout4 = `neurology.toc'.
 
@@ -677,7 +686,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[2]
+[3]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 7
 8.
  (/usr/share/texmf-dist/tex/latex/lm/ts1lmr.fd
@@ -691,16 +700,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[3{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[4]
+[4{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -745,8 +745,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[9{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf-dis
-t/fonts/enc/dvips/lm/lm-mathsy.enc}]
+[9]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -755,7 +754,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[10{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}]
+[10{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf-di
+st/fonts/enc/dvips/lm/lm-mathsy.enc}]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -764,7 +764,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[11]
+[11{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -810,13 +810,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [16]
-Overfull \hbox (4.43329pt too wide) in paragraph at lines 522--523
-[] []\OT1/lmr/bx/n/10.95 (-20) Phago-cy-to-sis.[] \OT1/lmr/m/n/10.95 (-20) When
- ac-ti-vated, mi-croglia en-gulf and di-gest dead cells, cel-lu-lar de-bris, pa
-thogens,
- []
-
-
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -826,6 +819,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [17]
+Overfull \hbox (4.43329pt too wide) in paragraph at lines 522--523
+[] []\OT1/lmr/bx/n/10.95 (-20) Phago-cy-to-sis.[] \OT1/lmr/m/n/10.95 (-20) When
+ ac-ti-vated, mi-croglia en-gulf and di-gest dead cells, cel-lu-lar de-bris, pa
+thogens,
+ []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -897,22 +897,67 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[25] (./neurology.aux)
+[25]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[26]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[27]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[28]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[29]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[30] (./neurology.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `neurology.out' has not changed.
-(rerunfilecheck)             Checksum: A0821CEF1ABD47A650095D476D5469C5;14823.
+(rerunfilecheck)             Checksum: 3723D08C2FBAB5FEBC7E2DF5BD31BC00;16954.
  ) 
 Here is how much of TeX's memory you used:
- 17205 strings out of 475171
- 270665 string characters out of 5767095
+ 17250 strings out of 475171
+ 271294 string characters out of 5767095
  724401 words of memory out of 5000000
- 39668 multiletter control sequences out of 15000+600000
- 608734 words of font info for 171 fonts, out of 8000000 for 9000
+ 39681 multiletter control sequences out of 15000+600000
+ 609483 words of font info for 178 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,12n,79p,1062b,544s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,1217b,544s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dis
 t/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm
 /lmbx8.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/share/
@@ -923,10 +968,10 @@ r/share/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf-dist/fonts
 fb></usr/share/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf-di
 st/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/l
 m/lmsy8.pfb>
-Output written on neurology.pdf (25 pages, 300595 bytes).
+Output written on neurology.pdf (30 pages, 316526 bytes).
 PDF statistics:
- 651 PDF objects out of 1000 (max. 8388607)
- 591 compressed objects within 6 object streams
- 113 named destinations out of 1000 (max. 500000)
- 25273 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 740 PDF objects out of 1000 (max. 8388607)
+ 674 compressed objects within 7 object streams
+ 131 named destinations out of 1000 (max. 500000)
+ 25377 words of extra memory for PDF output out of 29859 (max. 10000000)
 
