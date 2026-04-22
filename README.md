@@ -22,6 +22,7 @@ The document currently covers the basics of neurology:
 4. **Glial Cells**, astrocytes, oligodendrocytes, Schwann cells, myelin, ependymal cells, microglia, and their roles in health and disease.
 5. **The Frontal Lobe**, primary motor cortex, premotor and supplementary motor areas, frontal eye field, Broca's area, and the prefrontal cortex.
 6. **The Parietal Lobe**, primary somatosensory cortex, somatosensory association cortex, and the posterior parietal cortex.
+7. **The Temporal Lobe**, primary auditory cortex, auditory association cortex, primary olfactory cortex, olfactory association cortex, and Wernicke's area.
 
 Further sections will be added as the lecture series progresses.
 
