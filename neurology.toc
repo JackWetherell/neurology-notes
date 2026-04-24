@@ -122,3 +122,12 @@
 \contentsline {subsubsection}{\numberline {8.2.3}Clinical Picture}{32}{subsubsection.8.2.3}%
 \contentsline {subsection}{\numberline {8.3}Visual Association Cortex}{32}{subsection.8.3}%
 \contentsline {subsection}{\numberline {8.4}Summary}{33}{subsection.8.4}%
+\contentsline {section}{\numberline {9}The Insula}{33}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Anatomical Landmarks}{33}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Primary Gustatory Cortex}{34}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Interoception and Visceral Sensation}{34}{subsection.9.3}%
+\contentsline {subsubsection}{\numberline {9.3.1}Re-representation in the Anterior Insula}{34}{subsubsection.9.3.1}%
+\contentsline {subsection}{\numberline {9.4}The Anterior Insula: Emotion, Disgust, and Awareness}{34}{subsection.9.4}%
+\contentsline {subsection}{\numberline {9.5}Autonomic and Vestibular Roles}{35}{subsection.9.5}%
+\contentsline {subsection}{\numberline {9.6}Clinical Picture}{35}{subsection.9.6}%
+\contentsline {subsection}{\numberline {9.7}Summary}{35}{subsection.9.7}%
