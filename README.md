@@ -23,6 +23,7 @@ The document currently covers the basics of neurology:
 5. **The Frontal Lobe**, primary motor cortex, premotor and supplementary motor areas, frontal eye field, Broca's area, and the prefrontal cortex.
 6. **The Parietal Lobe**, primary somatosensory cortex, somatosensory association cortex, and the posterior parietal cortex.
 7. **The Temporal Lobe**, primary auditory cortex, auditory association cortex, primary olfactory cortex, olfactory association cortex, and Wernicke's area.
+8. **The Occipital Lobe**, primary visual cortex and the visual association cortex.
 
 Further sections will be added as the lecture series progresses.
 
