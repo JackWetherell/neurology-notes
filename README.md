@@ -24,6 +24,7 @@ The document currently covers the basics of neurology:
 6. **The Parietal Lobe**, primary somatosensory cortex, somatosensory association cortex, and the posterior parietal cortex.
 7. **The Temporal Lobe**, primary auditory cortex, auditory association cortex, primary olfactory cortex, olfactory association cortex, and Wernicke's area.
 8. **The Occipital Lobe**, primary visual cortex and the visual association cortex.
+9. **The Insula**, primary gustatory cortex, interoception and visceral sensation, and the anterior insula's role in emotion, disgust, and awareness.
 
 Further sections will be added as the lecture series progresses.
 
