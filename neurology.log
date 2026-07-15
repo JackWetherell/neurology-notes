@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  3 JUN 2026 14:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  15 JUL 2026 06:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -920,54 +920,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[32]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[33]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[34]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[35]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[36] (./neurology.aux)
+[32] (./neurology.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
 Package rerunfilecheck Info: File `neurology.out' has not changed.
-(rerunfilecheck)             Checksum: FF177178AFAAC399B881E71B013700DE;17303.
+(rerunfilecheck)             Checksum: 1E65498DE75F4E34768DAFE540F65F73;15922.
  ) 
 Here is how much of TeX's memory you used:
- 17244 strings out of 467525
- 272688 string characters out of 5418982
+ 17201 strings out of 467525
+ 272149 string characters out of 5418982
  742135 words of memory out of 5000000
- 45560 multiletter control sequences out of 15000+600000
- 679059 words of font info for 188 fonts, out of 8000000 for 9000
+ 45549 multiletter control sequences out of 15000+600000
+ 678586 words of font info for 184 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,1217b,579s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,1217b,550s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/lo
 cal/texlive/2026/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texliv
 e/2026/texmf-dist/fonts/type1/public/lm/lmbx8.pfb></usr/local/texlive/2026/texm
@@ -980,10 +948,10 @@ live/2026/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2026/
 texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2026/texmf-dist
 /fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2026/texmf-dist/fonts/typ
 e1/public/lm/lmsy8.pfb>
-Output written on neurology.pdf (36 pages, 340961 bytes).
+Output written on neurology.pdf (32 pages, 325288 bytes).
 PDF statistics:
- 798 PDF objects out of 1000 (max. 8388607)
- 725 compressed objects within 8 object streams
- 152 named destinations out of 1000 (max. 500000)
- 25401 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 724 PDF objects out of 1000 (max. 8388607)
+ 656 compressed objects within 7 object streams
+ 128 named destinations out of 1000 (max. 500000)
+ 25337 words of extra memory for PDF output out of 29859 (max. 10000000)
 
