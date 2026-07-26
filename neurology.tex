@@ -850,4 +850,141 @@ A separate role worth mentioning is in \textbf{vestibular processing}: the poste
 The insula is the cortex of the body's interior, the felt self, and the emotional weighting of experience. Hidden beneath the opercula of the frontal, parietal, and temporal lobes, and divided into a posterior region tied to interoception and somatosensory processing of the body's internal state, and an anterior region tied to taste, emotion, and subjective feeling, it stands at the crossroads of sensation, autonomic regulation, and affect. The primary gustatory cortex turns the chemistry of food into the experience of taste; the posterior and mid-insula construct an interoceptive map of the viscera; and the anterior insula re-represents that bodily state as feeling, contributing to disgust, empathy, craving, and the salience of events that matter. Damage produces ageusia, blunted disgust and empathy, autonomic instability, and altered awareness of one's own bodily state. The insula is, more than any other cortex, where the body becomes the self.
 
 
+\section{The Basal Ganglia}
+
+Every section so far has been about cortex. The basal ganglia are not cortex. They are a set of nuclei buried deep beneath it, grey matter sunk into the white matter of the hemispheres and reaching down into the midbrain, and they are wired into a loop that begins and ends in the cortex we have already described. Their business is \textbf{action selection}. At any moment the cortex has many possible movements half-prepared; the basal ganglia are the machinery that lets one of them through and holds the rest back.
+
+The most useful thing to fix in mind before any of the anatomy is that this circuit works by \textit{subtraction}, not addition. Its output nuclei fire constantly, and what they do while firing is inhibit the thalamus. Movement is not released by switching something on; it is released by switching that inhibition off. Almost every confusion about the basal ganglia comes from forgetting that the resting state of the system is a brake held down, and that the pathways we are about to trace are competing over whether to lift it.
+
+\subsection{Components}
+
+The basal ganglia are made up of several nuclei, and the naming is genuinely awkward, because anatomists carved these structures up by appearance long before anyone knew what they did. The result is that a single functional unit can carry two names, and a single name can span two functional units. It is worth learning the components alongside their transmitters, because in this circuit the transmitter is what tells you the sign of every connection.
+
+\begin{itemize}
+    \item The \textbf{striatum} is the input nucleus: almost everything the cortex sends to the basal ganglia arrives here. It is split by the \textbf{internal capsule}, the great sheet of white matter carrying fibres to and from the cortex, into the \textbf{caudate nucleus} medially and the \textbf{putamen} laterally. The split is anatomical rather than functional; the two are histologically identical, and where they remain joined underneath, the tissue is called the \textbf{nucleus accumbens}. The principal cells of the striatum are the \textbf{medium spiny neurons (MSNs)}, which are GABAergic and therefore inhibitory. They come in two populations, distinguished by which dopamine receptor they carry, and that distinction turns out to be the whole story.
+    \item The \textbf{globus pallidus} sits medial to the putamen and has two segments. The \textbf{external segment (GPe)} is an internal relay used by only one of the two pathways. The \textbf{internal segment (GPi)} is an output nucleus, one of the two structures through which the basal ganglia speak to the rest of the brain. Both are GABAergic.
+    \item The \textbf{subthalamic nucleus (STN)} is a small lens-shaped nucleus lying beneath the thalamus. It is the exception in this circuit: alone among these nuclei it is \textit{glutamatergic}, and therefore excitatory. Whenever a chain of reasoning about the basal ganglia produces a sign that seems wrong, the STN is usually the step that was missed.
+    \item The \textbf{substantia nigra} lies in the midbrain and, confusingly, does two entirely different jobs. The \textbf{pars reticulata (SNr)} is GABAergic and is the second output nucleus, the functional twin of the GPi. The \textbf{pars compacta (SNc)} is dopaminergic and is not part of the loop at all; it projects onto the striatum from the side and modulates it, which is the subject of the last two subsections of this section.
+\end{itemize}
+
+One more structure has to be named even though it is not part of the basal ganglia: the \textbf{thalamus}, and specifically its \textbf{ventral anterior (VA)} and \textbf{ventral lateral (VL)} nuclei. These are what the output nuclei act upon, and they project glutamate back up to the motor and premotor cortex. The thalamus is the thing being gated.
+
+Putting these together, the flow of information is a loop:
+
+\[
+\text{cortex} \rightarrow \text{striatum} \rightarrow \text{GPi/SNr} \rightarrow \text{thalamus} \rightarrow \text{cortex}
+\]
+
+Two features of this loop do all the work in what follows. The first is that the output nuclei, GPi and SNr, are \textbf{tonically active}: they fire continuously, without needing to be told to, and being GABAergic they hold the thalamus under a permanent brake. The second is that when one inhibitory neuron inhibits another inhibitory neuron, the result at the far end is \textbf{disinhibition}, which is functionally indistinguishable from excitation. Two minus signs in series make a plus. The direct pathway is built out of exactly that arrangement.
+
+\subsection{The Direct Pathway}
+
+The direct pathway is the route by which a movement gets released. It runs from cortex to striatum to the output nuclei and out to the thalamus, and its entire trick is the double inhibition just described.
+
+Tracing it synapse by synapse, naming the transmitter at each:
+
+\begin{enumerate}
+    \item The \textbf{cortex} fires onto the striatum, releasing \textbf{glutamate}. This is excitatory, and it activates the MSNs that carry \textbf{D1 receptors}.
+    \item Those D1 MSNs project to the \textbf{GPi/SNr} and release \textbf{GABA}. This is inhibitory, and it silences output neurons that were, until this moment, firing tonically.
+    \item The \textbf{GPi/SNr} normally release \textbf{GABA} onto the thalamus. Now that they have been silenced, that inhibition stops. The brake is lifted.
+    \item The \textbf{thalamus}, released, fires up to the cortex on \textbf{glutamate}, exciting the motor areas that were preparing the movement.
+\end{enumerate}
+
+Written as a chain, with the sign of each synapse marked:
+
+\[
+\text{cortex} \xrightarrow{\;+\;} \text{striatum (D1)} \xrightarrow{\;-\;} \text{GPi/SNr} \xrightarrow{\;-\;} \text{thalamus} \xrightarrow{\;+\;} \text{cortex}
+\]
+
+The arithmetic is the point. Steps two and three are both inhibitory, and inhibiting an inhibitor is excitation. The striatum does not excite the thalamus; it removes something that was suppressing the thalamus, and the thalamus, which was ready to fire all along, does the rest. The cortex ends up exciting itself, by way of a detour that takes the brake off.
+
+The net effect of activity in the direct pathway is therefore to \textbf{release the selected movement}. When a motor plan wins through this route, the thalamus is disinhibited, the loop back to cortex closes with excitation, and the action proceeds to execution.
+
+\subsection{The Indirect Pathway}
+
+The indirect pathway is the mirror image: it exists to hold movements back. It starts from the same cortical input and ends at the same output nuclei, but it reaches them by a longer route that inserts an extra inhibitory step and, crucially, an excitatory one. The extra step flips the sign.
+
+Tracing it as before:
+
+\begin{enumerate}
+    \item The \textbf{cortex} again fires onto the striatum with \textbf{glutamate}, but this time it activates the MSNs carrying \textbf{D2 receptors}, a separate population from those of the direct pathway.
+    \item Those D2 MSNs project to the \textbf{GPe}, not to the output nuclei, releasing \textbf{GABA} and silencing it.
+    \item The \textbf{GPe} was itself holding down the subthalamic nucleus with tonic \textbf{GABA}. Silencing the GPe therefore \textit{releases} the STN.
+    \item The \textbf{STN}, now disinhibited, fires onto the GPi/SNr with \textbf{glutamate}. This is the exception noted earlier, and it means the output nuclei are now being driven \textit{harder} than at rest.
+    \item The \textbf{GPi/SNr}, excited, pour still more \textbf{GABA} onto the thalamus. The brake is pressed down more firmly than before.
+\end{enumerate}
+
+As a signed chain:
+
+\[
+\text{cortex} \xrightarrow{\;+\;} \text{striatum (D2)} \xrightarrow{\;-\;} \text{GPe} \xrightarrow{\;-\;} \text{STN} \xrightarrow{\;+\;} \text{GPi/SNr} \xrightarrow{\;-\;} \text{thalamus}
+\]
+
+Follow the signs and the contrast with the direct pathway becomes clear. Here too there is a double inhibition, striatum onto GPe onto STN, and here too it produces disinhibition. But the structure being disinhibited is excitatory. So instead of the released structure exciting the thalamus, the released structure excites the very nuclei that inhibit the thalamus. The disinhibition is spent on strengthening the brake rather than lifting it.
+
+The net effect of activity in the indirect pathway is therefore to \textbf{suppress movement}. The two pathways begin at the same place and converge on the same place, and they arrive with opposite sign: the direct pathway subtracts from the thalamic brake, the indirect pathway adds to it. What the cortex actually gets back depends on the balance struck between them. That balance is not fixed, and what sets it is dopamine.
+
+\subsection{Dopamine}
+
+Dopamine has appeared already in these notes, listed among the neuromodulators and given the brief gloss of ``movement, reward, motivation''. It is now worth being precise about what it is and, more importantly, about how it acts, because dopamine does not work anything like the glutamate and GABA we have been tracing through the two pathways.
+
+Dopamine is a \textbf{catecholamine}, synthesised from the amino acid \textbf{tyrosine} by way of an intermediate that will be familiar from pharmacology: tyrosine is converted to \textbf{L-DOPA}, and L-DOPA is decarboxylated to dopamine. It is loaded into synaptic vesicles, released by the calcium-triggered mechanism described earlier, and cleared from the cleft mainly by reuptake through the \textbf{dopamine transporter (DAT)}, along the lines set out in the discussion of reuptake and degradation.
+
+\subsubsection{Ionotropic and Metabotropic Receptors}
+
+The important difference lies in what happens after dopamine binds. Every synapse in the direct and indirect pathways used an \textbf{ionotropic} receptor: the receptor \textit{is} an ion channel, the transmitter binding opens it, ions flow, and the membrane potential changes within a millisecond or so. Glutamate opens cation channels and depolarises; GABA opens chloride channels and hyperpolarises. Fast, local, unambiguous.
+
+Dopamine receptors are not ion channels at all. They are \textbf{metabotropic} receptors, and specifically they belong to the enormous family of \textbf{G protein-coupled receptors (GPCRs)}. A dopamine receptor cannot pass a current. What it can do is start a chain of chemistry inside the cell that changes how that cell responds to everything else arriving at it.
+
+\subsubsection{How a GPCR Works}
+
+A GPCR is a single protein that threads back and forth through the membrane seven times, which is why the family is sometimes called the seven-transmembrane receptors. Its binding site faces outward; its business end faces the cytoplasm. The sequence of events runs as follows.
+
+\begin{enumerate}
+    \item The transmitter binds to the receptor's extracellular face, and the protein changes shape.
+    \item That shape change is felt on the inside, where the receptor is associated with a \textbf{G protein}, a three-part assembly of $\alpha$, $\beta$, and $\gamma$ subunits. At rest the $\alpha$ subunit holds a molecule of \textbf{GDP}.
+    \item The activated receptor causes the $\alpha$ subunit to swap that GDP for \textbf{GTP}. This is the switch being thrown.
+    \item The GTP-bound $\alpha$ subunit separates from the $\beta\gamma$ pair and goes off to act on an \textbf{effector enzyme}. For dopamine receptors that enzyme is \textbf{adenylyl cyclase}.
+    \item Adenylyl cyclase manufactures a \textbf{second messenger}, \textbf{cyclic AMP (cAMP)}, which diffuses through the cytoplasm.
+    \item cAMP activates \textbf{protein kinase A (PKA)}, an enzyme that phosphorylates other proteins, including the ion channels already sitting in the membrane. Phosphorylation changes how readily those channels open.
+    \item The $\alpha$ subunit eventually hydrolyses its GTP back to GDP, reassembles with $\beta\gamma$, and the system resets.
+\end{enumerate}
+
+Three consequences of this arrangement matter for what follows. It is \textit{slow}: a cascade of several enzymatic steps takes hundreds of milliseconds to seconds, against the millisecond of an ionotropic synapse. It is \textit{amplifying}: one bound receptor activates many G proteins, each activated enzyme makes many molecules of cAMP, and so a small amount of transmitter produces a large intracellular effect. And it is \textit{modulatory} rather than commanding: the end result is not that the cell fires, but that the channels it already has are tuned to open more or less readily. A GPCR does not send a message; it changes how the cell reads its other messages.
+
+\subsubsection{The D1 and D2 Receptor Families}
+
+Dopamine receptors come in two families, distinguished by which G protein they couple to, and therefore by which direction they push adenylyl cyclase.
+
+\begin{itemize}
+    \item The \textbf{D1 family} (D1 and D5) couples to \textbf{G\textsubscript{s}}, the stimulatory G protein. Its $\alpha$ subunit \textit{activates} adenylyl cyclase, cAMP rises, PKA is switched on, and the net effect on the neuron is \textbf{increased excitability}: it becomes more responsive to the glutamate arriving from cortex.
+    \item The \textbf{D2 family} (D2, D3, and D4) couples to \textbf{G\textsubscript{i/o}}, the inhibitory G protein. Its $\alpha$ subunit \textit{suppresses} adenylyl cyclase, cAMP falls, PKA activity drops, and the net effect is \textbf{decreased excitability}: the neuron becomes less responsive to that same cortical input.
+\end{itemize}
+
+This is the crux, and it is worth stating plainly because it is the single fact on which the next subsection depends. Dopamine is one molecule with one shape, and it has opposite effects on two different cells. Nothing about the transmitter decides this. What decides it is which receptor the cell happens to express, and therefore which G protein sits behind that receptor. The message is identical; the interpretation is not.
+
+\subsection{The Modulatory Pathway}
+
+We now have everything needed to see what the substantia nigra does. Recall from the components that the pars compacta is dopaminergic and stands outside the cortex-striatum-thalamus loop. Its neurons send axons up into the striatum, spreading through it diffusely, in a projection called the \textbf{nigrostriatal pathway}.
+
+This projection carries no motor command. It does not tell the striatum which movement to make, and it is not a third route from cortex to thalamus alongside the other two. What it does is release dopamine broadly across the striatum, where it lands on both MSN populations at once. The direct and indirect pathways select; the nigrostriatal projection sets the terms on which they compete.
+
+The consequence follows directly from the receptor pharmacology of the previous subsection, because the two MSN populations were defined by exactly that difference:
+
+\begin{itemize}
+    \item Direct pathway MSNs carry \textbf{D1} receptors. Dopamine acting through G\textsubscript{s} raises cAMP and makes them \textit{more} excitable, so the pathway that lifts the thalamic brake is amplified.
+    \item Indirect pathway MSNs carry \textbf{D2} receptors. Dopamine acting through G\textsubscript{i/o} lowers cAMP and makes them \textit{less} excitable, so the pathway that presses the brake down is damped.
+\end{itemize}
+
+These two actions are opposite in mechanism and identical in outcome. Dopamine excites the pathway that promotes movement and inhibits the pathway that prevents it, and both effects push the balance the same way. This is the elegance of the arrangement: a single diffuse chemical signal, requiring no wiring specificity whatsoever, can shift the entire system toward action, because the two competing populations have been pre-labelled with receptors of opposite sign.
+
+The result is a \textbf{gain control} on movement. Dopamine does not choose the action; the cortex does that, by deciding which striatal neurons receive glutamate. Dopamine sets how readily whatever has been chosen gets released. When nigrostriatal dopamine is high, the threshold for releasing a movement falls and actions come easily; when it is low, the direct pathway is under-driven and the indirect pathway is under-damped, the brake stays down, and movement becomes harder to initiate.
+
+It is worth separating the two halves of the substantia nigra once more, since the shared name invites confusion. The \textbf{pars reticulata} is a member of the loop, an output nucleus inhibiting the thalamus exactly as the GPi does. The \textbf{pars compacta} is not in the loop at all; it stands to one side and adjusts the gain of the structure that feeds it. Same anatomical name, two entirely different roles.
+
+\subsection{Summary}
+
+The basal ganglia are the brain's mechanism for selecting actions, and they work by releasing a brake rather than by issuing a command. Cortex feeds glutamate into the striatum; the striatum's GABAergic medium spiny neurons act on output nuclei, the GPi and SNr, which fire tonically and inhibit the thalamus without pause. The direct pathway runs striatum to GPi/SNr, and because two inhibitory synapses in series produce disinhibition, its activity lifts the thalamic brake and releases the selected movement. The indirect pathway runs striatum to GPe to subthalamic nucleus to GPi/SNr, and because the disinhibited subthalamic nucleus is glutamatergic, its activity drives the output nuclei harder and presses the brake down, suppressing movement. The two routes converge with opposite sign, and the balance between them is set by dopamine, which acts through neither of the fast ionotropic mechanisms used elsewhere in the circuit but through G protein-coupled receptors, where binding triggers a GDP-for-GTP exchange, an effector enzyme, a second messenger, and a slow, amplified, modulatory change in how the cell answers its other inputs. Because direct pathway neurons carry stimulatory D1 receptors and indirect pathway neurons carry inhibitory D2 receptors, dopamine from the substantia nigra pars compacta amplifies the pathway that permits movement while damping the one that prevents it, and a single diffuse chemical broadcast is enough to set the threshold at which the whole system consents to act.
+
+
 \end{document}

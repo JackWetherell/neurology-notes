@@ -25,7 +25,7 @@ The document currently covers the basics of neurology:
 7. **The Temporal Lobe**, primary auditory cortex, auditory association cortex, primary olfactory cortex, olfactory association cortex, and Wernicke's area.
 8. **The Occipital Lobe**, primary visual cortex and the visual association cortex.
 9. **The Insula**, primary gustatory cortex, interoception and visceral sensation, and the anterior insula's role in emotion, disgust, and awareness.
-10. **The Basal Ganglia**, components and structure (striatum, globus pallidus, subthalamic nucleus, substantia nigra), the direct and indirect pathways, dopamine modulation, and clinical relevance to Parkinson's disease, Huntington's disease, and other disorders.
+10. **The Basal Ganglia**, components and the cortex-striatum-thalamus loop, the direct and indirect pathways, dopamine and the D1 and D2 receptors, and the nigrostriatal modulation of movement.
 
 Further sections will be added as the lecture series progresses.
 
