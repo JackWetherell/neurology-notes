@@ -16,9 +16,9 @@ Ninja Nerd provides the scaffolding and the ordering of topics; the written note
 
 The document currently covers the basics of neurology:
 
-1. **Nervous System Structure**, CNS and PNS anatomy, cerebrum, cerebellum, brainstem, cranial nerves, ventricles, spinal cord, and the autonomic nervous system.
+1. **Nervous System Structure**, CNS and PNS anatomy, cerebrum, cerebellum, diencephalon, brainstem, the twelve cranial nerves, ventricles, spinal cord, and the autonomic nervous system.
 2. **Neuron Structure**, soma, dendrites, axon, internal machinery, axonal transport, synaptic vesicles, SNARE proteins, and neurotransmitters.
-3. **Neuron Firing**, resting potential, the Nernst equation, graded potentials, the action potential, synaptic release, reuptake, and refractory periods.
+3. **Neuron Firing**, resting potential, the Nernst equation, graded potentials, the action potential, synaptic release, reuptake, refractory periods, and retrograde signalling by endocannabinoids.
 4. **Glial Cells**, astrocytes, oligodendrocytes, Schwann cells, myelin, ependymal cells, microglia, and their roles in health and disease.
 5. **The Frontal Lobe**, primary motor cortex, premotor and supplementary motor areas, frontal eye field, Broca's area, and the prefrontal cortex.
 6. **The Parietal Lobe**, primary somatosensory cortex, somatosensory association cortex, and the posterior parietal cortex.
