@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.7.26)  26 JUL 2026 04:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.7.26)  26 JUL 2026 05:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -820,7 +820,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [19]
-Overfull \hbox (4.43329pt too wide) in paragraph at lines 566--567
+Overfull \hbox (4.43329pt too wide) in paragraph at lines 562--563
 [] []\OT1/lmr/bx/n/10.95 (-20) Phago-cy-to-sis.[] \OT1/lmr/m/n/10.95 (-20) When
  ac-ti-vated, mi-croglia en-gulf and di-gest dead cells, cel-lu-lar de-bris, pa
 thogens,
@@ -1020,16 +1020,16 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `neurology.out' has not changed.
-(rerunfilecheck)             Checksum: 9E5105FB8511B0E39EE3CCD7EB4ADB8D;17812.
+(rerunfilecheck)             Checksum: 9CA07D2DB3B0BD816E0AFB9A2859E2BE;17672.
  ) 
 Here is how much of TeX's memory you used:
- 16970 strings out of 476182
- 266468 string characters out of 5795595
+ 16966 strings out of 476182
+ 266384 string characters out of 5795595
  1946975 words of memory out of 5000000
- 38358 multiletter control sequences out of 15000+600000
+ 38355 multiletter control sequences out of 15000+600000
  609718 words of font info for 187 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,12n,79p,1549b,570s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,1549b,572s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx8.pfb></us
 r/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/pu
@@ -1039,10 +1039,10 @@ e/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm
 onts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/
 type1/public/lm/lmsy8.pfb>
-Output written on neurology.pdf (40 pages, 383305 bytes).
+Output written on neurology.pdf (40 pages, 384872 bytes).
 PDF statistics:
- 838 PDF objects out of 1000 (max. 8388607)
- 761 compressed objects within 8 object streams
- 163 named destinations out of 1000 (max. 500000)
- 25425 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 832 PDF objects out of 1000 (max. 8388607)
+ 755 compressed objects within 8 object streams
+ 162 named destinations out of 1000 (max. 500000)
+ 25417 words of extra memory for PDF output out of 29859 (max. 10000000)
 
