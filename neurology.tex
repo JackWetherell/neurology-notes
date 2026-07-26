@@ -321,7 +321,71 @@ Before we reach the action potential, we need a smaller kind of signal: the \tex
 
 Three properties define them. They are \textit{graded}: their size depends on the size of the stimulus, not an all-or-nothing switch. They \textit{decay} with distance: they are passive spreads of voltage, and they get weaker the further they travel. And they \textit{summate}: if several graded potentials arrive at roughly the same time (temporal summation) or at nearby spots on the dendritic tree (spatial summation), their effects add together.
 
-Two kinds are particularly important:
+But where does the voltage change actually come from? A neurotransmitter molecule is not electrically interesting in itself; it carries no current across the membrane and it does not touch the ions on either side. Everything depends on what the transmitter binds to. Postsynaptic receptors come in two architecturally different kinds, and the difference between them accounts for most of the variety in how neurons influence one another.
+
+\subsubsection{Ligand-Gated Ion Channels}
+
+The first kind is the \textbf{ligand-gated ion channel}, also called an \textbf{ionotropic} receptor. Here the receptor \textit{is} the channel: a single protein assembly that spans the membrane, encloses a water-filled pore, and carries a binding site for the transmitter on its outer face. When the transmitter (the \textit{ligand}) binds, the protein changes shape, the pore opens, and ions move through it under the forces described in the previous subsection. When the transmitter unbinds, the pore shuts.
+
+Nothing else is involved. There is no intermediate messenger and no chain of enzymes, which is why this arrangement is fast: the delay between transmitter binding and current flowing is a fraction of a millisecond, and the whole event is usually over within a few milliseconds. It is also strictly local, confined to the patch of membrane holding the channel.
+
+What determines whether such a channel excites or inhibits is not the transmitter but the \textbf{selectivity of the pore}, that is, which ions it will let through:
+
+\begin{itemize}
+    \item \textbf{Glutamate} acts on \textbf{AMPA} and \textbf{NMDA} receptors, both of which pass cations, chiefly Na\textsuperscript{+} inward. The result is depolarisation. This is why glutamate is the workhorse excitatory transmitter.
+    \item \textbf{Acetylcholine} acts on \textbf{nicotinic} receptors, which likewise pass cations inward, and which are the receptors of the neuromuscular junction.
+    \item \textbf{GABA} acts on \textbf{GABA\textsubscript{A}} receptors, which pass Cl\textsuperscript{--}, and \textbf{glycine} acts on receptors that do the same. The result is inhibition.
+\end{itemize}
+
+It is worth stating plainly, because it is a common confusion, that no transmitter is intrinsically excitatory or inhibitory. Glutamate is excitatory because the receptors that happen to bind it happen to pass sodium. Put glutamate on a chloride-selective channel and it would inhibit. The transmitter selects which receptors respond; the receptor decides what that response is.
+
+\subsubsection{G Protein-Coupled Receptors}
+
+The second kind is the \textbf{G protein-coupled receptor (GPCR)}, also called a \textbf{metabotropic} receptor, and it works on an entirely different principle. A GPCR is not a channel and cannot pass a current at all. It is a single protein that threads back and forth through the membrane seven times, which is why the family is sometimes called the seven-transmembrane receptors, with its binding site facing outward and its business end facing the cytoplasm. What it does when activated is start a chain of chemistry inside the cell.
+
+The sequence runs as follows.
+
+\begin{enumerate}
+    \item The transmitter binds to the receptor's extracellular face, and the protein changes shape.
+    \item That shape change is felt on the inside, where the receptor is associated with a \textbf{G protein}, a three-part assembly of $\alpha$, $\beta$, and $\gamma$ subunits. At rest the $\alpha$ subunit holds a molecule of \textbf{GDP}.
+    \item The activated receptor causes the $\alpha$ subunit to swap that GDP for \textbf{GTP}. This is the switch being thrown.
+    \item The GTP-bound $\alpha$ subunit separates from the $\beta\gamma$ pair, and both halves are now free to act.
+    \item The $\alpha$ subunit acts on an \textbf{effector enzyme}, commonly \textbf{adenylyl cyclase}, which manufactures a \textbf{second messenger}, \textbf{cyclic AMP (cAMP)}, that diffuses through the cytoplasm.
+    \item cAMP activates \textbf{protein kinase A (PKA)}, an enzyme that phosphorylates other proteins, including ion channels already sitting in the membrane. Phosphorylation changes how readily those channels open.
+    \item The $\alpha$ subunit eventually hydrolyses its GTP back to GDP, reassembles with $\beta\gamma$, and the system resets.
+\end{enumerate}
+
+Which direction the cascade pushes depends on which G protein the receptor is coupled to. Receptors coupled to \textbf{G\textsubscript{s}} (stimulatory) activate adenylyl cyclase, so cAMP rises and PKA is switched on. Receptors coupled to \textbf{G\textsubscript{i}} (inhibitory) suppress it, so cAMP falls. The same receptor architecture and the same transmitter can therefore produce opposite effects in two different cells, depending only on which G protein sits behind the receptor.
+
+The $\beta\gamma$ pair is not merely left over. It can act on its own, and in one case that matters a great deal it acts directly on ion channels: $\beta\gamma$ released by GABA\textsubscript{B} and by various monoamine receptors binds and opens a class of potassium channels known as \textbf{GIRK} channels. Potassium leaves, the cell hyperpolarises, and the membrane voltage has been changed by a metabotropic receptor without any second messenger being involved at all. This is a useful corrective to the tidy picture: metabotropic does not mean slow-and-indirect-only, it means the receptor and the channel are separate proteins.
+
+Three consequences of the whole arrangement matter. It is \textit{slow}: a cascade of several enzymatic steps takes hundreds of milliseconds to seconds, against the millisecond of an ionotropic synapse. It is \textit{amplifying}: one bound receptor activates many G proteins, each activated enzyme makes many molecules of second messenger, and so a small amount of transmitter produces a large intracellular effect. And it is \textit{modulatory} rather than commanding: the usual end result is not that the cell fires, but that the channels it already has are tuned to open more or less readily. A GPCR does not so much send a message as change how the cell reads its other messages.
+
+Most transmitters act on both kinds of receptor. Glutamate has metabotropic receptors alongside AMPA and NMDA; GABA has GABA\textsubscript{B} alongside GABA\textsubscript{A}; acetylcholine has muscarinic receptors alongside nicotinic. The neuromodulators met in the previous section, dopamine, serotonin, and noradrenaline, act almost entirely through GPCRs, which is precisely why they modulate rather than command.
+
+\subsubsection{How These Change the Membrane Voltage}
+
+We can now be exact about the step that both mechanisms end in: an open channel, and a voltage that moves. The key idea is that opening a channel does not \textit{set} a voltage. It passes a \textbf{current}, and the size and direction of that current depend on how far the membrane currently sits from that ion's equilibrium potential:
+
+\[
+I_{ion} = g_{ion}\,(V_m - E_{ion})
+\]
+
+Here $g_{ion}$ is the conductance, essentially how many channels for that ion are open, and the bracketed term $(V_m - E_{ion})$ is the \textbf{driving force}. The equation says something simple: an ion flows in whichever direction moves the membrane potential \textit{toward} that ion's equilibrium potential, and it flows harder the further away the membrane currently is. An open channel is a pull toward its own ion's $E_{ion}$, and the strength of the pull is the distance still to travel.
+
+Read against the equilibrium potentials tabulated earlier, every kind of postsynaptic response follows directly:
+
+\begin{itemize}
+    \item Open a \textbf{sodium}-permeable channel at rest. The membrane sits at $-70$ mV and $E_{Na} \approx +60$ mV, so the driving force is large and inward. Sodium pours in, the membrane depolarises toward $+60$ mV, and the result is an \textbf{EPSP}.
+    \item Open a \textbf{potassium}-permeable channel, as $\beta\gamma$ does at GIRK channels. Since $E_K \approx -90$ mV lies below rest, potassium leaves, the membrane hyperpolarises toward $-90$ mV, and the result is an \textbf{IPSP}.
+    \item Open a \textbf{chloride}-permeable channel, as GABA\textsubscript{A} does. Here $E_{Cl} \approx -65$ mV sits very close to rest, so remarkably little chloride actually moves and the voltage barely changes. The inhibition is real nonetheless: with a large chloride conductance open, the membrane is effectively clamped near $-65$ mV, and any excitatory current arriving has to fight that clamp. This is \textbf{shunting inhibition}, which holds the cell down rather than pushing it down.
+\end{itemize}
+
+This also explains the defining properties listed at the start of the subsection. The response is \textit{graded} because more transmitter binds more receptors, which opens more channels, which is a larger $g_{ion}$ and so a larger current and a bigger deflection; nothing here is all-or-nothing. It \textit{decays} with distance because the charge spreading away from the synapse leaks back out across the membrane as it goes, so less and less of it reaches the axon hillock. And it \textit{summates} because these are currents flowing into a common pool of charge, and currents simply add.
+
+Finally, the two receptor families leave different signatures on the voltage. An ionotropic receptor produces a fast, sharp deflection lasting a few milliseconds, the discrete blip of a single synaptic event. A metabotropic receptor produces a slow shift, taking hundreds of milliseconds to develop and persisting for seconds, which does not so much signal an event as change the terms on which every other input is judged. When we come to the basal ganglia we will find dopamine doing exactly this, setting the gain on a circuit rather than driving it.
+
+With that machinery in place, the two kinds of graded potential can be named:
 
 \begin{itemize}
     \item \textbf{Excitatory postsynaptic potentials (EPSPs)} depolarise the cell, moving it closer to threshold.
@@ -644,7 +708,7 @@ The parietal lobe sits behind the frontal lobe and above the temporal lobe, occu
     \item Medially, the \textbf{longitudinal fissure} divides it from its counterpart on the other side.
 \end{itemize}
 
-Within the parietal lobe, the most important subdivision is made by the \textbf{intraparietal sulcus}, which runs roughly horizontally and divides the surface into a \textbf{superior parietal lobule} above and an \textbf{inferior parietal lobule} below. The inferior parietal lobule is itself made up of two named gyri: the \textbf{supramarginal gyrus}, which curls around the end of the lateral sulcus, and the \textbf{angular gyrus}, which sits behind it and curls around the end of the superior temporal sulcus. These are landmarks worth keeping in mind, as several of the more striking parietal syndromes localise to them.
+Within the parietal lobe, the most important subdivision is made by the \textbf{intraparietal sulcus}, which runs roughly horizontally and divides the surface into a \textbf{superior parietal lobule} above and an \textbf{inferior parietal lobule} below. The inferior parietal lobule is itself made up of two named gyri: the \textbf{supramarginal gyrus}, which curls around the end of the lateral sulcus, and the \textbf{angular gyrus}, which sits behind it and curls around the end of the superior temporal sulcus. These are landmarks worth keeping in mind, as they mark the functional subdivisions the rest of this section works through.
 
 Functionally, the parietal lobe walks from the most concrete to the most abstract as you move backwards. The postcentral gyrus, just behind the central sulcus, registers raw sensation; the cortex behind it interprets and integrates that sensation; and the cortex further back still uses sensation to construct space, attention, and bodily self-awareness.
 
@@ -678,17 +742,25 @@ A useful way to think about it is that S1 tells you \textit{that} something is t
 
 Damage to this region produces a striking deficit known as \textbf{tactile agnosia}, or, when restricted to a hand, \textbf{astereognosis}. Strength is intact, primary sensation is intact, and the patient can describe the temperature, texture, and shape of an object placed in the hand, but cannot identify what the object is. The raw materials of perception are present; the act of recognition has been severed from them. As with the motor association cortex's apraxia, this is a clean dissociation between low-level capability and the higher-level integration that makes it useful.
 
-\subsection{Posterior Parietal Cortex}
+\subsection{The Posterior Association Area}
 
-Further back still, occupying much of the rest of the parietal lobe and especially the inferior parietal lobule, lies the \textbf{posterior parietal cortex (PPC)}. This is the most abstract of the three regions and the one that bleeds most clearly into cognition. Its job is to construct \textbf{space} and \textbf{attention}: to integrate visual, somatosensory, and vestibular information into a unified sense of where things are, where the body is among them, and where attention should be directed next.
+Further back still, we reach the point at which cortex stops belonging to any one sense. Everything described so far in this section has been somatosensory: S1 registers touch, and the somatosensory association cortex interprets it, but both are working with a single modality. The \textbf{posterior association area} is different in kind. It is the large expanse of cortex where the separate sensory worlds are combined into one, and it is the reason we experience a single scene rather than three parallel reports.
 
-Practically, the PPC is what allows you to reach accurately for a cup without staring at your hand, to navigate a doorway without bumping the frame, to keep track of a moving object while turning your head, and to feel that the room is stable even though your retinal image lurches with every saccade. It is also a major node in the brain's \textbf{attention network}, working with the frontal eye field and other regions to allocate attention to relevant parts of the environment.
+Anatomically it does not respect lobar boundaries, which is precisely the point. It occupies the \textbf{parieto-temporo-occipital junction}, the territory where the three posterior lobes meet, and it takes in the \textbf{posterior parietal cortex} (the superior and inferior parietal lobules, including the \textbf{angular} and \textbf{supramarginal gyri} identified earlier) along with the adjacent posterior temporal and lateral occipital cortex. It is discussed here because its centre of mass is parietal, but a boundary drawn around it would cut across the parietal, temporal, and occipital lobes alike.
 
-The PPC is, like the frontal lobe, strongly \textbf{lateralised}, and the syndromes produced by damage on each side differ instructively.
+Its position explains its function. Three great streams of processed information converge on it: \textbf{somatosensory} information from the parietal cortex in front, \textbf{visual} information from the occipital cortex behind, and \textbf{auditory} information from the temporal cortex below, with vestibular input arriving alongside them. Each stream arrives already interpreted by its own association cortex. What the posterior association area adds is \textit{binding}: the felt position of the hand and the seen position of the hand are registered as one hand, and the sound of a voice and the sight of a moving mouth are registered as one person speaking.
+
+The most conspicuous product of that binding is a representation of \textbf{space}. The posterior association area constructs where things are, where the body is among them, and how the two relate, holding this in several frames at once, some anchored to the body and some to the world. This is what allows you to reach accurately for a cup without staring at your hand, to navigate a doorway without bumping the frame, to keep track of a moving object while turning your head, and to feel that the room is stable even though your retinal image lurches with every saccade.
+
+Bound up with space is \textbf{attention}. The area is a major node in the brain's attention network, working with the frontal eye field to decide which part of the environment matters next. It is also the destination of the visual \textbf{dorsal stream} described in the occipital lobe section, the ``where'' and ``how'' pathway, and it is here that seeing is converted into the coordinates a movement can actually use, so that a reach or a grasp arrives where the object is rather than where it merely appeared.
+
+Two further contributions are worth naming. The area maintains the \textbf{body schema}, the continuously updated model of the body's shape, posture, and extent that makes the body feel like a single owned object rather than a collection of limbs. And through the \textbf{angular gyrus}, which sits at the junction proper and adjoins the language cortex met in the temporal lobe, it forms the bridge from perception to \textbf{symbol}: the step at which a seen mark becomes a letter, a heard pattern becomes a word, and a quantity becomes a number.
+
+Like the frontal lobe, the posterior association area is strongly \textbf{lateralised}. The right hemisphere carries the heavier load for spatial and attentional processing, tending to attend to both sides of space, while the left is more involved in the language-related and symbolic operations of the angular gyrus, in calculation, and in the ordered representation of learned actions. This asymmetry is functional rather than absolute, and the two sides work together through the corpus callosum, but it is a real division of labour and it explains why the region's contributions cannot be understood as a single uniform capacity.
 
 \subsection{Summary}
 
-The parietal lobe is where the body's sensory traffic becomes conscious sensation, where sensation becomes recognition, and where recognition is woven together with vision and movement into the felt sense of a body in space. The primary somatosensory cortex registers touch, proprioception, pain, and temperature in a contralateral, somatotopically organised map; the somatosensory association cortex turns those raw sensations into recognised objects and a coherent body schema; and the posterior parietal cortex constructs space, attention, and the visuospatial frames within which action becomes possible. Damage at each level produces a characteristic deficit, from contralateral numbness, through tactile agnosia, to the more dramatic syndromes of neglect, Gerstmann's tetrad, and Balint's. Taken together, the parietal lobe shows that even something as immediate as ``what the world feels like'' is the product of layered cortical processing, and that the mind's sense of being embodied in a place is not given but built.
+The parietal lobe is where the body's sensory traffic becomes conscious sensation, where sensation becomes recognition, and where recognition is woven together with vision and movement into the felt sense of a body in space. The primary somatosensory cortex registers touch, proprioception, pain, and temperature in a contralateral, somatotopically organised map; the somatosensory association cortex turns those raw sensations into recognised objects and a coherent body schema; and the posterior association area, straddling the junction of the parietal, temporal, and occipital lobes, binds the separate sensory streams into a single scene and constructs the space, attention, and visuomotor frames within which action becomes possible. Damage at each level produces a characteristic deficit, from contralateral numbness at the first, through the tactile agnosia of the second, to disturbances of space, attention, and the body schema at the third. Taken together, the parietal lobe shows that even something as immediate as ``what the world feels like'' is the product of layered cortical processing, and that the mind's sense of being embodied in a place is not given but built.
 
 \section{The Temporal Lobe}
 
@@ -930,27 +1002,7 @@ Dopamine has appeared already in these notes, listed among the neuromodulators a
 
 Dopamine is a \textbf{catecholamine}, synthesised from the amino acid \textbf{tyrosine} by way of an intermediate that will be familiar from pharmacology: tyrosine is converted to \textbf{L-DOPA}, and L-DOPA is decarboxylated to dopamine. It is loaded into synaptic vesicles, released by the calcium-triggered mechanism described earlier, and cleared from the cleft mainly by reuptake through the \textbf{dopamine transporter (DAT)}, along the lines set out in the discussion of reuptake and degradation.
 
-\subsubsection{Ionotropic and Metabotropic Receptors}
-
-The important difference lies in what happens after dopamine binds. Every synapse in the direct and indirect pathways used an \textbf{ionotropic} receptor: the receptor \textit{is} an ion channel, the transmitter binding opens it, ions flow, and the membrane potential changes within a millisecond or so. Glutamate opens cation channels and depolarises; GABA opens chloride channels and hyperpolarises. Fast, local, unambiguous.
-
-Dopamine receptors are not ion channels at all. They are \textbf{metabotropic} receptors, and specifically they belong to the enormous family of \textbf{G protein-coupled receptors (GPCRs)}. A dopamine receptor cannot pass a current. What it can do is start a chain of chemistry inside the cell that changes how that cell responds to everything else arriving at it.
-
-\subsubsection{How a GPCR Works}
-
-A GPCR is a single protein that threads back and forth through the membrane seven times, which is why the family is sometimes called the seven-transmembrane receptors. Its binding site faces outward; its business end faces the cytoplasm. The sequence of events runs as follows.
-
-\begin{enumerate}
-    \item The transmitter binds to the receptor's extracellular face, and the protein changes shape.
-    \item That shape change is felt on the inside, where the receptor is associated with a \textbf{G protein}, a three-part assembly of $\alpha$, $\beta$, and $\gamma$ subunits. At rest the $\alpha$ subunit holds a molecule of \textbf{GDP}.
-    \item The activated receptor causes the $\alpha$ subunit to swap that GDP for \textbf{GTP}. This is the switch being thrown.
-    \item The GTP-bound $\alpha$ subunit separates from the $\beta\gamma$ pair and goes off to act on an \textbf{effector enzyme}. For dopamine receptors that enzyme is \textbf{adenylyl cyclase}.
-    \item Adenylyl cyclase manufactures a \textbf{second messenger}, \textbf{cyclic AMP (cAMP)}, which diffuses through the cytoplasm.
-    \item cAMP activates \textbf{protein kinase A (PKA)}, an enzyme that phosphorylates other proteins, including the ion channels already sitting in the membrane. Phosphorylation changes how readily those channels open.
-    \item The $\alpha$ subunit eventually hydrolyses its GTP back to GDP, reassembles with $\beta\gamma$, and the system resets.
-\end{enumerate}
-
-Three consequences of this arrangement matter for what follows. It is \textit{slow}: a cascade of several enzymatic steps takes hundreds of milliseconds to seconds, against the millisecond of an ionotropic synapse. It is \textit{amplifying}: one bound receptor activates many G proteins, each activated enzyme makes many molecules of cAMP, and so a small amount of transmitter produces a large intracellular effect. And it is \textit{modulatory} rather than commanding: the end result is not that the cell fires, but that the channels it already has are tuned to open more or less readily. A GPCR does not send a message; it changes how the cell reads its other messages.
+The important difference lies in what happens after dopamine binds. Every synapse traced through the direct and indirect pathways used a ligand-gated ion channel, where the receptor is itself the pore and the membrane potential moves within a millisecond. Dopamine receptors are not ion channels at all. They are \textbf{G protein-coupled receptors}, working by the cascade set out when we first met graded potentials: binding throws a switch on a G protein, a GDP is swapped for a GTP, an effector enzyme is engaged, and a second messenger goes on to tune ion channels the cell already has. The consequences established there are exactly the ones that matter here. Dopamine acts slowly, in hundreds of milliseconds to seconds; its effect is amplified far beyond the amount of transmitter released; and it modulates rather than commands, changing how a striatal neuron answers its cortical input rather than firing it directly.
 
 \subsubsection{The D1 and D2 Receptor Families}
 
