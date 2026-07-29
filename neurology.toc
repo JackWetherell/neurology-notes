@@ -43,84 +43,85 @@
 \contentsline {subsubsection}{\numberline {3.7.1}Synthesis on Demand}{18}{subsubsection.3.7.1}%
 \contentsline {subsubsection}{\numberline {3.7.2}Travelling Backwards}{19}{subsubsection.3.7.2}%
 \contentsline {subsubsection}{\numberline {3.7.3}Why a Backwards Signal Is Useful}{19}{subsubsection.3.7.3}%
-\contentsline {subsection}{\numberline {3.8}Summary}{19}{subsection.3.8}%
-\contentsline {section}{\numberline {4}Glial Cells}{19}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Astrocytes and Satellite Cells}{20}{subsection.4.1}%
-\contentsline {subsubsection}{\numberline {4.1.1}Astrocytes}{20}{subsubsection.4.1.1}%
-\contentsline {paragraph}{1. Structural support.}{20}{subsubsection.4.1.1}%
-\contentsline {paragraph}{2. Ion buffering.}{20}{subsubsection.4.1.1}%
-\contentsline {paragraph}{3. Neurotransmitter recycling.}{20}{subsubsection.4.1.1}%
-\contentsline {paragraph}{4. Metabolic support.}{20}{subsubsection.4.1.1}%
-\contentsline {paragraph}{5. The blood-brain barrier.}{21}{subsubsection.4.1.1}%
-\contentsline {paragraph}{6. Modulation of synapses.}{21}{subsubsection.4.1.1}%
-\contentsline {paragraph}{7. Response to injury.}{21}{subsubsection.4.1.1}%
-\contentsline {subsubsection}{\numberline {4.1.2}Satellite Cells}{21}{subsubsection.4.1.2}%
-\contentsline {subsection}{\numberline {4.2}Oligodendrocytes and Schwann Cells}{21}{subsection.4.2}%
-\contentsline {subsubsection}{\numberline {4.2.1}Oligodendrocytes}{21}{subsubsection.4.2.1}%
-\contentsline {subsubsection}{\numberline {4.2.2}Schwann Cells}{22}{subsubsection.4.2.2}%
-\contentsline {subsubsection}{\numberline {4.2.3}Myelin}{22}{subsubsection.4.2.3}%
-\contentsline {subsection}{\numberline {4.3}Ependymal Cells}{22}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Microglia}{23}{subsection.4.4}%
-\contentsline {subsubsection}{\numberline {4.4.1}What Microglia Do}{23}{subsubsection.4.4.1}%
-\contentsline {paragraph}{Immune surveillance.}{23}{subsubsection.4.4.1}%
-\contentsline {paragraph}{Phagocytosis.}{23}{subsubsection.4.4.1}%
-\contentsline {paragraph}{Inflammatory signalling.}{23}{subsubsection.4.4.1}%
-\contentsline {paragraph}{Synaptic pruning.}{23}{subsubsection.4.4.1}%
-\contentsline {subsubsection}{\numberline {4.4.2}Activation States}{23}{subsubsection.4.4.2}%
-\contentsline {subsection}{\numberline {4.5}Comparing CNS and PNS Glia}{24}{subsection.4.5}%
-\contentsline {paragraph}{In the CNS:}{24}{subsection.4.5}%
-\contentsline {paragraph}{In the PNS:}{24}{subsection.4.5}%
-\contentsline {subsection}{\numberline {4.6}Summary}{24}{subsection.4.6}%
-\contentsline {section}{\numberline {5}The Frontal Lobe}{24}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Anatomical Landmarks}{24}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Primary Motor Cortex (M1)}{25}{subsection.5.2}%
-\contentsline {subsubsection}{\numberline {5.2.1}The Motor Homunculus}{25}{subsubsection.5.2.1}%
-\contentsline {subsubsection}{\numberline {5.2.2}Microanatomy}{26}{subsubsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.3}Motor Association Cortex: Premotor and Supplementary Motor Areas}{26}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}Frontal Eye Field}{26}{subsection.5.4}%
-\contentsline {subsection}{\numberline {5.5}Broca's Area}{26}{subsection.5.5}%
-\contentsline {subsection}{\numberline {5.6}Prefrontal Cortex}{27}{subsection.5.6}%
-\contentsline {subsubsection}{\numberline {5.6.1}Subdivisions}{27}{subsubsection.5.6.1}%
-\contentsline {paragraph}{Dorsolateral prefrontal cortex (DLPFC).}{27}{subsubsection.5.6.1}%
-\contentsline {paragraph}{Ventromedial prefrontal cortex (VMPFC).}{27}{subsubsection.5.6.1}%
-\contentsline {paragraph}{Orbitofrontal cortex (OFC).}{27}{subsubsection.5.6.1}%
-\contentsline {subsubsection}{\numberline {5.6.2}Connections}{27}{subsubsection.5.6.2}%
-\contentsline {subsection}{\numberline {5.7}Summary}{28}{subsection.5.7}%
-\contentsline {section}{\numberline {6}The Parietal Lobe}{28}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Anatomical Landmarks}{28}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Primary Somatosensory Cortex (S1)}{29}{subsection.6.2}%
-\contentsline {subsubsection}{\numberline {6.2.1}The Sensory Homunculus}{29}{subsubsection.6.2.1}%
-\contentsline {subsubsection}{\numberline {6.2.2}Microanatomy}{29}{subsubsection.6.2.2}%
-\contentsline {subsection}{\numberline {6.3}Somatosensory Association Cortex}{29}{subsection.6.3}%
-\contentsline {subsection}{\numberline {6.4}The Posterior Association Area}{30}{subsection.6.4}%
-\contentsline {subsection}{\numberline {6.5}Summary}{31}{subsection.6.5}%
-\contentsline {section}{\numberline {7}The Temporal Lobe}{31}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Anatomical Landmarks}{31}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}Primary Auditory Cortex (A1)}{32}{subsection.7.2}%
-\contentsline {subsection}{\numberline {7.3}Auditory Association Cortex}{32}{subsection.7.3}%
-\contentsline {subsection}{\numberline {7.4}Primary Olfactory Cortex}{33}{subsection.7.4}%
-\contentsline {subsection}{\numberline {7.5}Olfactory Association Cortex}{33}{subsection.7.5}%
-\contentsline {subsection}{\numberline {7.6}Wernicke's Area}{33}{subsection.7.6}%
-\contentsline {subsection}{\numberline {7.7}Summary}{34}{subsection.7.7}%
-\contentsline {section}{\numberline {8}The Occipital Lobe}{34}{section.8}%
-\contentsline {subsection}{\numberline {8.1}Anatomical Landmarks}{34}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}Primary Visual Cortex (V1)}{35}{subsection.8.2}%
-\contentsline {subsubsection}{\numberline {8.2.1}Retinotopic Organisation}{35}{subsubsection.8.2.1}%
-\contentsline {subsubsection}{\numberline {8.2.2}Microanatomy}{35}{subsubsection.8.2.2}%
-\contentsline {subsection}{\numberline {8.3}Visual Association Cortex}{35}{subsection.8.3}%
-\contentsline {subsection}{\numberline {8.4}Summary}{36}{subsection.8.4}%
-\contentsline {section}{\numberline {9}The Insula}{36}{section.9}%
-\contentsline {subsection}{\numberline {9.1}Anatomical Landmarks}{37}{subsection.9.1}%
-\contentsline {subsection}{\numberline {9.2}Primary Gustatory Cortex}{37}{subsection.9.2}%
-\contentsline {subsection}{\numberline {9.3}Interoception and Visceral Sensation}{38}{subsection.9.3}%
-\contentsline {subsection}{\numberline {9.4}The Anterior Insula: Emotion, Disgust, and Awareness}{38}{subsection.9.4}%
-\contentsline {subsection}{\numberline {9.5}Autonomic and Vestibular Roles}{38}{subsection.9.5}%
-\contentsline {subsection}{\numberline {9.6}Summary}{39}{subsection.9.6}%
-\contentsline {section}{\numberline {10}The Basal Ganglia}{39}{section.10}%
-\contentsline {subsection}{\numberline {10.1}Components}{39}{subsection.10.1}%
-\contentsline {subsection}{\numberline {10.2}The Direct Pathway}{40}{subsection.10.2}%
-\contentsline {subsection}{\numberline {10.3}The Indirect Pathway}{41}{subsection.10.3}%
-\contentsline {subsection}{\numberline {10.4}Dopamine}{41}{subsection.10.4}%
-\contentsline {subsubsection}{\numberline {10.4.1}The D1 and D2 Receptor Families}{42}{subsubsection.10.4.1}%
-\contentsline {subsection}{\numberline {10.5}The Modulatory Pathway}{42}{subsection.10.5}%
-\contentsline {subsection}{\numberline {10.6}Summary}{43}{subsection.10.6}%
+\contentsline {subsection}{\numberline {3.8}Autoreceptors}{19}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.9}Summary}{20}{subsection.3.9}%
+\contentsline {section}{\numberline {4}Glial Cells}{21}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Astrocytes and Satellite Cells}{21}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Astrocytes}{21}{subsubsection.4.1.1}%
+\contentsline {paragraph}{1. Structural support.}{21}{subsubsection.4.1.1}%
+\contentsline {paragraph}{2. Ion buffering.}{21}{subsubsection.4.1.1}%
+\contentsline {paragraph}{3. Neurotransmitter recycling.}{22}{subsubsection.4.1.1}%
+\contentsline {paragraph}{4. Metabolic support.}{22}{subsubsection.4.1.1}%
+\contentsline {paragraph}{5. The blood-brain barrier.}{22}{subsubsection.4.1.1}%
+\contentsline {paragraph}{6. Modulation of synapses.}{22}{subsubsection.4.1.1}%
+\contentsline {paragraph}{7. Response to injury.}{22}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Satellite Cells}{22}{subsubsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.2}Oligodendrocytes and Schwann Cells}{22}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Oligodendrocytes}{22}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Schwann Cells}{23}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}Myelin}{23}{subsubsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.3}Ependymal Cells}{24}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Microglia}{24}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}What Microglia Do}{24}{subsubsection.4.4.1}%
+\contentsline {paragraph}{Immune surveillance.}{24}{subsubsection.4.4.1}%
+\contentsline {paragraph}{Phagocytosis.}{24}{subsubsection.4.4.1}%
+\contentsline {paragraph}{Inflammatory signalling.}{24}{subsubsection.4.4.1}%
+\contentsline {paragraph}{Synaptic pruning.}{25}{subsubsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.2}Activation States}{25}{subsubsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.5}Comparing CNS and PNS Glia}{25}{subsection.4.5}%
+\contentsline {paragraph}{In the CNS:}{25}{subsection.4.5}%
+\contentsline {paragraph}{In the PNS:}{25}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Summary}{25}{subsection.4.6}%
+\contentsline {section}{\numberline {5}The Frontal Lobe}{25}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Anatomical Landmarks}{26}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Primary Motor Cortex (M1)}{26}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}The Motor Homunculus}{26}{subsubsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.2}Microanatomy}{27}{subsubsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.3}Motor Association Cortex: Premotor and Supplementary Motor Areas}{27}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Frontal Eye Field}{27}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Broca's Area}{28}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Prefrontal Cortex}{28}{subsection.5.6}%
+\contentsline {subsubsection}{\numberline {5.6.1}Subdivisions}{28}{subsubsection.5.6.1}%
+\contentsline {paragraph}{Dorsolateral prefrontal cortex (DLPFC).}{28}{subsubsection.5.6.1}%
+\contentsline {paragraph}{Ventromedial prefrontal cortex (VMPFC).}{28}{subsubsection.5.6.1}%
+\contentsline {paragraph}{Orbitofrontal cortex (OFC).}{29}{subsubsection.5.6.1}%
+\contentsline {subsubsection}{\numberline {5.6.2}Connections}{29}{subsubsection.5.6.2}%
+\contentsline {subsection}{\numberline {5.7}Summary}{29}{subsection.5.7}%
+\contentsline {section}{\numberline {6}The Parietal Lobe}{29}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Anatomical Landmarks}{29}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Primary Somatosensory Cortex (S1)}{30}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}The Sensory Homunculus}{30}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}Microanatomy}{30}{subsubsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.3}Somatosensory Association Cortex}{31}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}The Posterior Association Area}{31}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Summary}{32}{subsection.6.5}%
+\contentsline {section}{\numberline {7}The Temporal Lobe}{32}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Anatomical Landmarks}{32}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Primary Auditory Cortex (A1)}{33}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Auditory Association Cortex}{33}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Primary Olfactory Cortex}{34}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Olfactory Association Cortex}{34}{subsection.7.5}%
+\contentsline {subsection}{\numberline {7.6}Wernicke's Area}{34}{subsection.7.6}%
+\contentsline {subsection}{\numberline {7.7}Summary}{35}{subsection.7.7}%
+\contentsline {section}{\numberline {8}The Occipital Lobe}{35}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Anatomical Landmarks}{35}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Primary Visual Cortex (V1)}{36}{subsection.8.2}%
+\contentsline {subsubsection}{\numberline {8.2.1}Retinotopic Organisation}{36}{subsubsection.8.2.1}%
+\contentsline {subsubsection}{\numberline {8.2.2}Microanatomy}{36}{subsubsection.8.2.2}%
+\contentsline {subsection}{\numberline {8.3}Visual Association Cortex}{36}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Summary}{37}{subsection.8.4}%
+\contentsline {section}{\numberline {9}The Insula}{37}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Anatomical Landmarks}{38}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Primary Gustatory Cortex}{38}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Interoception and Visceral Sensation}{39}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}The Anterior Insula: Emotion, Disgust, and Awareness}{39}{subsection.9.4}%
+\contentsline {subsection}{\numberline {9.5}Autonomic and Vestibular Roles}{39}{subsection.9.5}%
+\contentsline {subsection}{\numberline {9.6}Summary}{40}{subsection.9.6}%
+\contentsline {section}{\numberline {10}The Basal Ganglia}{40}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Components}{40}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}The Direct Pathway}{41}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}The Indirect Pathway}{42}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}Dopamine}{42}{subsection.10.4}%
+\contentsline {subsubsection}{\numberline {10.4.1}The D1 and D2 Receptor Families}{43}{subsubsection.10.4.1}%
+\contentsline {subsection}{\numberline {10.5}The Modulatory Pathway}{43}{subsection.10.5}%
+\contentsline {subsection}{\numberline {10.6}Summary}{44}{subsection.10.6}%
