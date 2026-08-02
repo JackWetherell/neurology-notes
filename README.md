@@ -21,11 +21,12 @@ The document currently covers the basics of neurology:
 3. **Neuron Firing**, resting potential, the Nernst equation, graded potentials, the action potential, synaptic release, reuptake, refractory periods, retrograde signalling by endocannabinoids, and autoreceptors.
 4. **Glial Cells**, astrocytes, oligodendrocytes, Schwann cells, myelin, ependymal cells, microglia, and their roles in health and disease.
 5. **The Frontal Lobe**, primary motor cortex, premotor and supplementary motor areas, frontal eye field, Broca's area, and the prefrontal cortex.
-6. **The Parietal Lobe**, primary somatosensory cortex, somatosensory association cortex, and the posterior parietal cortex.
+6. **The Parietal Lobe**, primary somatosensory cortex, somatosensory association cortex, and the posterior association area.
 7. **The Temporal Lobe**, primary auditory cortex, auditory association cortex, primary olfactory cortex, olfactory association cortex, and Wernicke's area.
 8. **The Occipital Lobe**, primary visual cortex and the visual association cortex.
 9. **The Insula**, primary gustatory cortex, interoception and visceral sensation, and the anterior insula's role in emotion, disgust, and awareness.
 10. **The Basal Ganglia**, components and the cortex-striatum-thalamus loop, the direct and indirect pathways, dopamine and the D1 and D2 receptors, and the nigrostriatal modulation of movement.
+11. **The Hypothalamus**, structure and nuclei, its role as the output stage of the limbic system, control of the pituitary and the endocrine axes, command of the autonomic nervous system, and the pathways linking it to the hippocampus, amygdala, and prefrontal cortex.
 
 Further sections will be added as the lecture series progresses.
 
