@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  13 AUG 2026 22:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  13 AUG 2026 22:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -889,39 +889,41 @@ Overfull \hbox (0.75671pt too wide) in paragraph at lines 592--592
  []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 603.
+(Font)              <9> on input line 604.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 603.
+(Font)              <5> on input line 604.
 
-Underfull \hbox (badness 10000) in paragraph at lines 603--604
+Underfull \hbox (badness 10000) in paragraph at lines 604--605
 []|\OT1/lmr/m/n/9 (+20) Alcohol, ben-zo-di-azepines
  []
 
 
-Underfull \hbox (badness 7168) in paragraph at lines 607--608
+Underfull \hbox (badness 7168) in paragraph at lines 608--609
 []|\OT1/lmr/m/n/9 (+20) Muscarine (ag-o-nist); at-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 617--617
+Underfull \hbox (badness 10000) in paragraph at lines 622--622
 []|\OT1/lmr/m/n/9 (+20) Endocannabinoids
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 617--617
+Underfull \hbox (badness 10000) in paragraph at lines 622--622
 \OT1/lmr/m/n/9 (+20) (anan-damide, 2-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 619--619
+Underfull \hbox (badness 10000) in paragraph at lines 625--625
 []|\OT1/lmr/m/n/9 (+20) Opioid pep-tides
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 619--619
+Underfull \hbox (badness 10000) in paragraph at lines 625--625
 \OT1/lmr/m/n/9 (+20) (en-dor-phins,
  []
 
+
+ignored: Infinite glue shrinkage found in box being split
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -954,7 +956,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [26]
-Overfull \hbox (4.43329pt too wide) in paragraph at lines 722--723
+Overfull \hbox (4.43329pt too wide) in paragraph at lines 728--729
 [] []\OT1/lmr/bx/n/10.95 (-20) Phago-cy-to-sis.[] \OT1/lmr/m/n/10.95 (-20) When
  ac-ti-vated, mi-croglia en-gulf and di-gest dead cells, cel-lu-lar de-bris, pa
 thogens,
@@ -1170,11 +1172,11 @@ Package rerunfilecheck Info: File `neurology.out' has not changed.
 Here is how much of TeX's memory you used:
  17602 strings out of 467525
  278246 string characters out of 5418982
- 749210 words of memory out of 5000000
+ 755360 words of memory out of 5000000
  45830 multiletter control sequences out of 15000+600000
  699839 words of font info for 215 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,1690b,579s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,1690b,674s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/lo
 cal/texlive/2026/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texliv
 e/2026/texmf-dist/fonts/type1/public/lm/lmbx8.pfb></usr/local/texlive/2026/texm
@@ -1190,10 +1192,10 @@ ublic/lm/lmr9.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmr
 i10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmri12.pfb></
 usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/
 texlive/2026/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
-Output written on neurology.pdf (51 pages, 511000 bytes).
+Output written on neurology.pdf (51 pages, 513391 bytes).
 PDF statistics:
  1005 PDF objects out of 1200 (max. 8388607)
- 906 compressed objects within 10 object streams
+ 907 compressed objects within 10 object streams
  193 named destinations out of 1000 (max. 500000)
  35809 words of extra memory for PDF output out of 35830 (max. 10000000)
 

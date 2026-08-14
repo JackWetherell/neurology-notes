@@ -576,12 +576,12 @@ It is worth ending with two of the most widely consumed psychoactive drugs in th
 
 The electrical life of a neuron is a story of ions crossing a membrane. The resting potential is set mostly by potassium permeability. Small graded potentials from synaptic input summate at the axon hillock; if they push the membrane past threshold, a self-reinforcing avalanche of sodium entry produces an action potential, which propagates to the axon terminal. There, calcium influx triggers vesicle fusion, neurotransmitter is released, and the process starts again in the next cell. Refractory periods keep the signal unidirectional and bounded. Layered on top of this forward flow are two presynaptic brakes. Endocannabinoids, synthesised on demand in the postsynaptic membrane, travel back across the cleft to suppress release from the terminal that just fired, giving the receiving cell a say in how much it is sent; autoreceptors let the sending neuron regulate itself, damping release at the terminal and firing rate at the soma according to how much transmitter it has already put out. These same receptors are also where drugs act, mimicking the natural signal as agonists, blocking it as antagonists, or allosterically tuning the response up or down, and the effect a drug produces follows from which of these it does and at which receptor. The Nernst equation, which at first looks like a piece of physical chemistry, turns out to be quietly responsible for most of it.
 
-The many transmitters, receptors, synaptic actions, and drugs met across this section are gathered in Table~\ref{tab:transmitters} below, which reads as a single-glance reference to everything discussed above.
+The transmitters and receptor families met across this section are gathered in Table~\ref{tab:transmitters} below, extended with their principal receptor subtypes to serve as a single-glance reference.
 
 {\footnotesize
 \renewcommand{\arraystretch}{1.3}
 \begin{longtable}{p{2.8cm} p{2.4cm} p{1.8cm} p{1.9cm} p{4.0cm}}
-\caption{Neurotransmitters, their receptors, synaptic actions, and the drugs that act at them, as discussed in this section. ``Type'' distinguishes fast ionotropic channels from slower metabotropic G protein-coupled receptors (GPCRs), with the G protein noted where the text gave it. A dash marks a receptor for which no drug was discussed here.}
+\caption{The principal neurotransmitters and the receptor families through which they act, with their synaptic actions and the drugs that bind them. ``Type'' distinguishes fast ionotropic channels from slower metabotropic G protein-coupled receptors (GPCRs), with the G protein noted where relevant. The receptors drawn on in this section are discussed in the prose above; the remaining subtypes are included to complete the picture. A dash marks a receptor for which no relevant drug is listed.}
 \label{tab:transmitters} \\
 \toprule
 \textbf{Neurotransmitter} & \textbf{Receptor} & \textbf{Type} & \textbf{Action} & \textbf{Drug (effect)} \\
@@ -598,6 +598,7 @@ The many transmitters, receptors, synaptic actions, and drugs met across this se
 \endlastfoot
 Glutamate & AMPA & Ionotropic & Excitatory & --- \\
  & NMDA & Ionotropic & Excitatory & Alcohol (antagonist) \\
+ & Kainate & Ionotropic & Excitatory & --- \\
  & mGluR & GPCR & Modulatory & --- \\
 \midrule
 GABA & GABA\textsubscript{A} & Ionotropic & Inhibitory & Alcohol, benzodiazepines (positive allosteric modulator) \\
@@ -606,15 +607,20 @@ GABA & GABA\textsubscript{A} & Ionotropic & Inhibitory & Alcohol, benzodiazepine
 Acetylcholine & Nicotinic & Ionotropic & Excitatory & Nicotine (agonist) \\
  & Muscarinic & GPCR & Modulatory & Muscarine (agonist); atropine (antagonist) \\
 \midrule
-Dopamine & D2 & GPCR (G\textsubscript{i}) & Inhibitory & --- (autoreceptor) \\
+Dopamine & D1 & GPCR (G\textsubscript{s}) & Excitatory & --- \\
+ & D2 & GPCR (G\textsubscript{i}) & Inhibitory & --- (autoreceptor) \\
 \midrule
 Serotonin (5-HT) & 5-HT\textsubscript{1A} & GPCR & Inhibitory & CBD (agonist); somatodendritic autoreceptor \\
  & 5-HT\textsubscript{1B/1D} & GPCR & Inhibitory & --- (terminal autoreceptor) \\
  & 5-HT\textsubscript{2A} & GPCR & Excitatory & LSD, psilocin (partial agonist) \\
+ & 5-HT\textsubscript{3} & Ionotropic & Excitatory & Ondansetron (antagonist) \\
 \midrule
-Noradrenaline & $\alpha$\textsubscript{2} & GPCR & Inhibitory & --- (autoreceptor) \\
+Noradrenaline & $\alpha$\textsubscript{1} & GPCR (G\textsubscript{q}) & Excitatory & --- \\
+ & $\alpha$\textsubscript{2} & GPCR & Inhibitory & --- (autoreceptor) \\
+ & $\beta$\textsubscript{1}/$\beta$\textsubscript{2} & GPCR (G\textsubscript{s}) & Modulatory & --- \\
 \midrule
 Endocannabinoids (anandamide, 2-AG) & CB1 & GPCR (G\textsubscript{i}) & Inhibitory & THC (partial agonist); CBD (negative allosteric modulator) \\
+ & CB2 & GPCR (G\textsubscript{i}) & Modulatory & --- \\
 \midrule
 Opioid peptides (endorphins, enkephalins) & $\mu$-opioid & GPCR (G\textsubscript{i}) & Inhibitory & Morphine, heroin (agonist) \\
 \midrule
