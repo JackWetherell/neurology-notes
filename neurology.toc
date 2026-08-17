@@ -138,3 +138,9 @@
 \contentsline {subsection}{\numberline {11.4}Autonomic Involvement}{49}{subsection.11.4}%
 \contentsline {subsection}{\numberline {11.5}Pathways}{50}{subsection.11.5}%
 \contentsline {subsection}{\numberline {11.6}Summary}{51}{subsection.11.6}%
+\contentsline {section}{\numberline {12}The Thalamus}{51}{section.12}%
+\contentsline {subsection}{\numberline {12.1}Structure and Components}{51}{subsection.12.1}%
+\contentsline {subsection}{\numberline {12.2}Limbic Involvement}{52}{subsection.12.2}%
+\contentsline {subsection}{\numberline {12.3}Sensory Involvement}{53}{subsection.12.3}%
+\contentsline {subsection}{\numberline {12.4}Motor Involvement}{54}{subsection.12.4}%
+\contentsline {subsection}{\numberline {12.5}Summary}{55}{subsection.12.5}%

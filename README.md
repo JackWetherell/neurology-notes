@@ -28,6 +28,8 @@ The document currently covers the basics of neurology:
 10. **The Basal Ganglia**, components and the cortex-striatum-thalamus loop, the direct and indirect pathways, dopamine and the D1 and D2 receptors, and the nigrostriatal modulation of movement.
 11. **The Hypothalamus**, structure and nuclei, its role as the output stage of the limbic system, control of the pituitary and the endocrine axes, command of the autonomic nervous system, and the pathways linking it to the hippocampus, amygdala, and prefrontal cortex.
 
+12. **The Thalamus**, structure and the nuclear groups, the reticular nucleus as the gate, limbic involvement through the anterior and mediodorsal nuclei, the modality-specific sensory relays and how they are gated by attention and arousal, and the motor loops returning from the basal ganglia and cerebellum.
+
 Further sections will be added as the lecture series progresses.
 
 ## Files
