@@ -4,6 +4,8 @@ Personal study notes on the neurological foundations of the mind, written up as 
 
 The long-term aim of these notes is to build a working understanding of the mind from both neurological and psychological standpoints, starting from the physical substrate (ions, membranes, neurons, glia) and working upward toward cognition, behaviour, and personality.
 
+The organising question is how emotions, behaviours, self-awareness and experience arise from biological processes: the _easy_ problems of consciousness, in Chalmers' sense, rather than the hard one. The document's introduction states this framing and the closing section takes stock of how far a purely physical account currently reaches.
+
 ## Source Material
 
 The notes follow the structure of **Ninja Nerd's Neurology lecture series** on YouTube:

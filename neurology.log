@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  3 SEP 2026 23:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  4 SEP 2026 00:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -696,7 +696,7 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 (./neurology.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 2.
+(Font)              <10.95> on input line 3.
  [1
 
 {/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
@@ -729,8 +729,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [4]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 8
-0.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[5]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 9
+8.
  (/usr/local/texlive/2026/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -741,15 +749,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[5{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[6]
+[6{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -805,8 +805,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[13{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/l
-ocal/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
+[13]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -814,7 +813,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[14{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}]
+[14]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -822,7 +821,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[15]
+[15{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/l
+ocal/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texli
+ve/2026/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -887,51 +888,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [23]
-Overfull \hbox (0.75671pt too wide) in paragraph at lines 587--587
-[]|\OT1/lmr/bx/n/9 (-20) Neurotransmitter| 
- []
-
-
-Overfull \hbox (0.75671pt too wide) in paragraph at lines 592--592
-[]|\OT1/lmr/bx/n/9 (-20) Neurotransmitter| 
- []
-
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 604.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 604.
-
-Underfull \hbox (badness 10000) in paragraph at lines 604--605
-[]|\OT1/lmr/m/n/9 (+20) Alcohol, ben-zo-di-azepines
- []
-
-
-Underfull \hbox (badness 7168) in paragraph at lines 608--609
-[]|\OT1/lmr/m/n/9 (+20) Muscarine (ag-o-nist); at-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 622--622
-[]|\OT1/lmr/m/n/9 (+20) Endocannabinoids
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 622--622
-\OT1/lmr/m/n/9 (+20) (anan-damide, 2-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 625--625
-[]|\OT1/lmr/m/n/9 (+20) Opioid pep-tides
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 625--625
-\OT1/lmr/m/n/9 (+20) (en-dor-phins,
- []
-
-
-ignored: Infinite glue shrinkage found in box being split
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -940,6 +896,49 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [24]
+Overfull \hbox (0.75671pt too wide) in paragraph at lines 611--611
+[]|\OT1/lmr/bx/n/9 (-20) Neurotransmitter| 
+ []
+
+
+Overfull \hbox (0.75671pt too wide) in paragraph at lines 616--616
+[]|\OT1/lmr/bx/n/9 (-20) Neurotransmitter| 
+ []
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 628.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 628.
+
+Underfull \hbox (badness 10000) in paragraph at lines 628--629
+[]|\OT1/lmr/m/n/9 (+20) Alcohol, ben-zo-di-azepines
+ []
+
+
+Underfull \hbox (badness 7168) in paragraph at lines 632--633
+[]|\OT1/lmr/m/n/9 (+20) Muscarine (ag-o-nist); at-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 646--646
+[]|\OT1/lmr/m/n/9 (+20) Endocannabinoids
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 646--646
+\OT1/lmr/m/n/9 (+20) (anan-damide, 2-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 649--649
+[]|\OT1/lmr/m/n/9 (+20) Opioid pep-tides
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 649--649
+\OT1/lmr/m/n/9 (+20) (en-dor-phins,
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -964,12 +963,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [27]
-Overfull \hbox (4.43329pt too wide) in paragraph at lines 728--729
-[] []\OT1/lmr/bx/n/10.95 (-20) Phago-cy-to-sis.[] \OT1/lmr/m/n/10.95 (-20) When
- ac-ti-vated, mi-croglia en-gulf and di-gest dead cells, cel-lu-lar de-bris, pa
-thogens,
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -986,6 +979,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [29]
+Overfull \hbox (4.43329pt too wide) in paragraph at lines 752--753
+[] []\OT1/lmr/bx/n/10.95 (-20) Phago-cy-to-sis.[] \OT1/lmr/m/n/10.95 (-20) When
+ ac-ti-vated, mi-croglia en-gulf and di-gest dead cells, cel-lu-lar de-bris, pa
+thogens,
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1194,137 +1193,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [55]
-Underfull \hbox (badness 10000) in paragraph at lines 1368--1368
-[]|\OT1/lmr/m/n/9 (+20) Mammillothalamic
- []
-
-
-Underfull \hbox (badness 6316) in paragraph at lines 1368--1369
-[]|\OT1/lmr/m/n/9 (+20) Limbic (mem-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1370--1370
-[]|\OT1/lmr/m/n/9 (+20) Amygdala, ol-fac-tory
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1370--1371
-[]|\OT1/lmr/m/n/9 (+20) Limbic (emo-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1373--1373
-[]|\OT1/lmr/m/n/9 (+20) Lateral pos-te-rior
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1373--1373
-[]|\OT1/lmr/m/n/9 (+20) Parietal as-so-ci-a-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1374--1375
-[]|\OT1/lmr/m/n/9 (+20) Visual at-ten-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1376--1376
-[]|\OT1/lmr/m/n/9 (+20) Ventral an-te-rior
- []
-
-
-Underfull \hbox (badness 3009) in paragraph at lines 1376--1376
-[]|\OT1/lmr/m/n/9 (+20) GPi/SNr (basal gan-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1377--1377
-[]|\OT1/lmr/m/n/9 (+20) Primary mo-tor
- []
-
-
-Underfull \hbox (badness 5862) in paragraph at lines 1377--1378
-[]|\OT1/lmr/m/n/9 (+20) Motor (ex-e-cu-
- []
-
-
-Underfull \hbox (badness 7238) in paragraph at lines 1378--1378
-[]|\OT1/lmr/m/n/9 (+20) Ventral pos-tero-lat-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1378--1378
-[]|\OT1/lmr/m/n/9 (+20) Medial lem-nis-cus,
- []
-
-
-Underfull \hbox (badness 4229) in paragraph at lines 1379--1379
-[]|\OT1/lmr/m/n/9 (+20) Ventral pos-tero-me-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1379--1380
-[]|\OT1/lmr/m/n/9 (+20) Facial sen-sa-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1380--1380
-[]|\OT1/lmr/m/n/9 (+20) Medial genic-u-late
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
-[]|\OT1/lmr/m/n/9 (+20) Lateral genic-u-late
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1383--1383
-[]|\OT1/lmr/m/n/9 (+20) Centromedian,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1383--1383
-[]|\OT1/lmr/m/n/9 (+20) Reticular for-ma-tion,
- []
-
-
-Underfull \hbox (badness 1776) in paragraph at lines 1383--1383
-[]|\OT1/lmr/m/n/9 (+20) Striatum, dif-fuse
- []
-
-
-Underfull \hbox (badness 1635) in paragraph at lines 1383--1384
-[]|\OT1/lmr/m/n/9 (+20) Arousal, af-fec-
- []
-
-
-Underfull \hbox (badness 2042) in paragraph at lines 1385--1385
-[]|\OT1/lmr/m/n/9 (+20) Hypothalamus, brain-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1385--1385
-[]|\OT1/lmr/m/n/9 (+20) Hippocampus,
- []
-
-
-Underfull \hbox (badness 2556) in paragraph at lines 1385--1386
-[]|\OT1/lmr/m/n/9 (+20) Visceral, emo-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1387--1387
-[]|\OT1/lmr/m/n/9 (+20) Thalamocortical and
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1387--1388
-[]|\OT1/lmr/m/n/9 (+20) Gating, sleep
- []
-
-
-ignored: Infinite glue shrinkage found in box being split
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1357,6 +1225,137 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [59]
+Underfull \hbox (badness 10000) in paragraph at lines 1412--1412
+[]|\OT1/lmr/m/n/9 (+20) Mammillothalamic
+ []
+
+
+Underfull \hbox (badness 6316) in paragraph at lines 1412--1413
+[]|\OT1/lmr/m/n/9 (+20) Limbic (mem-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1414--1414
+[]|\OT1/lmr/m/n/9 (+20) Amygdala, ol-fac-tory
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1414--1415
+[]|\OT1/lmr/m/n/9 (+20) Limbic (emo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1417--1417
+[]|\OT1/lmr/m/n/9 (+20) Lateral pos-te-rior
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1417--1417
+[]|\OT1/lmr/m/n/9 (+20) Parietal as-so-ci-a-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1418--1419
+[]|\OT1/lmr/m/n/9 (+20) Visual at-ten-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1420--1420
+[]|\OT1/lmr/m/n/9 (+20) Ventral an-te-rior
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 1420--1420
+[]|\OT1/lmr/m/n/9 (+20) GPi/SNr (basal gan-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1421--1421
+[]|\OT1/lmr/m/n/9 (+20) Primary mo-tor
+ []
+
+
+Underfull \hbox (badness 5862) in paragraph at lines 1421--1422
+[]|\OT1/lmr/m/n/9 (+20) Motor (ex-e-cu-
+ []
+
+
+Underfull \hbox (badness 7238) in paragraph at lines 1422--1422
+[]|\OT1/lmr/m/n/9 (+20) Ventral pos-tero-lat-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1422--1422
+[]|\OT1/lmr/m/n/9 (+20) Medial lem-nis-cus,
+ []
+
+
+Underfull \hbox (badness 4229) in paragraph at lines 1423--1423
+[]|\OT1/lmr/m/n/9 (+20) Ventral pos-tero-me-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
+[]|\OT1/lmr/m/n/9 (+20) Facial sen-sa-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1424--1424
+[]|\OT1/lmr/m/n/9 (+20) Medial genic-u-late
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1425--1425
+[]|\OT1/lmr/m/n/9 (+20) Lateral genic-u-late
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1427--1427
+[]|\OT1/lmr/m/n/9 (+20) Centromedian,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1427--1427
+[]|\OT1/lmr/m/n/9 (+20) Reticular for-ma-tion,
+ []
+
+
+Underfull \hbox (badness 1776) in paragraph at lines 1427--1427
+[]|\OT1/lmr/m/n/9 (+20) Striatum, dif-fuse
+ []
+
+
+Underfull \hbox (badness 1635) in paragraph at lines 1427--1428
+[]|\OT1/lmr/m/n/9 (+20) Arousal, af-fec-
+ []
+
+
+Underfull \hbox (badness 2042) in paragraph at lines 1429--1429
+[]|\OT1/lmr/m/n/9 (+20) Hypothalamus, brain-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1429--1429
+[]|\OT1/lmr/m/n/9 (+20) Hippocampus,
+ []
+
+
+Underfull \hbox (badness 2556) in paragraph at lines 1429--1430
+[]|\OT1/lmr/m/n/9 (+20) Visceral, emo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1431--1431
+[]|\OT1/lmr/m/n/9 (+20) Thalamocortical and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1431--1432
+[]|\OT1/lmr/m/n/9 (+20) Gating, sleep
+ []
+
+
+ignored: Infinite glue shrinkage found in box being split
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1413,65 +1412,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [66]
-Underfull \hbox (badness 10000) in paragraph at lines 1596--1597
-\OT1/lmr/m/n/9 (+20) au-to-bi-o-graph-i-cal mem-ory
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1598--1598
-[]|\OT1/lmr/m/n/9 (+20) Parahippocampal
- []
-
-
-Underfull \hbox (badness 2302) in paragraph at lines 1602--1602
-[]|\OT1/lmr/m/n/9 (+20) Stria ter-mi-nalis and
- []
-
-
-Underfull \hbox (badness 6428) in paragraph at lines 1602--1603
-[]|\OT1/lmr/m/n/9 (+20) Appraisal of sig-nif-i-cance;
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1604--1604
-[]|\OT1/lmr/m/n/9 (+20) Fornix; amyg-dalar
- []
-
-
-Underfull \hbox (badness 2318) in paragraph at lines 1604--1604
-\OT1/lmr/m/n/9 (+20) path-ways; pre-frontal
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1606--1606
-[]|\OT1/lmr/m/n/9 (+20) Thalamus (an-te-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1606--1606
-[]|\OT1/lmr/m/n/9 (+20) Mammillothalamic
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1606--1606
-\OT1/lmr/m/n/9 (+20) tract; amyg-dala;
- []
-
-
-Underfull \hbox (badness 1067) in paragraph at lines 1606--1606
-[]|\OT1/lmr/m/n/9 (+20) Cingulate; pre-frontal
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1608--1608
-[]|\OT1/lmr/m/n/9 (+20) Septohippocampal
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1608--1608
-\OT1/lmr/m/n/9 (+20) path-way; stria
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1504,6 +1444,65 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [70]
+Underfull \hbox (badness 10000) in paragraph at lines 1642--1643
+\OT1/lmr/m/n/9 (+20) au-to-bi-o-graph-i-cal mem-ory
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1644--1644
+[]|\OT1/lmr/m/n/9 (+20) Parahippocampal
+ []
+
+
+Underfull \hbox (badness 2302) in paragraph at lines 1648--1648
+[]|\OT1/lmr/m/n/9 (+20) Stria ter-mi-nalis and
+ []
+
+
+Underfull \hbox (badness 6428) in paragraph at lines 1648--1649
+[]|\OT1/lmr/m/n/9 (+20) Appraisal of sig-nif-i-cance;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1650--1650
+[]|\OT1/lmr/m/n/9 (+20) Fornix; amyg-dalar
+ []
+
+
+Underfull \hbox (badness 2318) in paragraph at lines 1650--1650
+\OT1/lmr/m/n/9 (+20) path-ways; pre-frontal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1652--1652
+[]|\OT1/lmr/m/n/9 (+20) Thalamus (an-te-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1652--1652
+[]|\OT1/lmr/m/n/9 (+20) Mammillothalamic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1652--1652
+\OT1/lmr/m/n/9 (+20) tract; amyg-dala;
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 1652--1652
+[]|\OT1/lmr/m/n/9 (+20) Cingulate; pre-frontal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1654--1654
+[]|\OT1/lmr/m/n/9 (+20) Septohippocampal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1654--1654
+\OT1/lmr/m/n/9 (+20) path-way; stria
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1512,7 +1511,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [71]
-ignored: Infinite glue shrinkage found in box being split
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1528,22 +1526,62 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[73] (./neurology.aux)
+[73]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[74]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[75]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[76]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[77]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[78] (./neurology.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
 Package rerunfilecheck Info: File `neurology.out' has not changed.
-(rerunfilecheck)             Checksum: A63E0207ABE06005B00205DE657777DE;26708.
+(rerunfilecheck)             Checksum: 2C654CCE29B4ED324FF23D28F69E2915;26923.
  ) 
 Here is how much of TeX's memory you used:
- 17743 strings out of 467525
- 280169 string characters out of 5418982
+ 17752 strings out of 467525
+ 280248 string characters out of 5418982
  756544 words of memory out of 5000000
- 45872 multiletter control sequences out of 15000+600000
+ 45874 multiletter control sequences out of 15000+600000
  701727 words of font info for 236 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,18n,79p,1850b,675s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,18n,79p,1850b,673s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/lo
 cal/texlive/2026/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texliv
 e/2026/texmf-dist/fonts/type1/public/lm/lmbx8.pfb></usr/local/texlive/2026/texm
@@ -1559,10 +1597,10 @@ ublic/lm/lmr9.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmr
 i10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmri12.pfb></
 usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/
 texlive/2026/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
-Output written on neurology.pdf (73 pages, 607371 bytes).
+Output written on neurology.pdf (78 pages, 629398 bytes).
 PDF statistics:
- 1281 PDF objects out of 1440 (max. 8388607)
- 1158 compressed objects within 12 object streams
- 250 named destinations out of 1000 (max. 500000)
- 36065 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 1313 PDF objects out of 1440 (max. 8388607)
+ 1183 compressed objects within 12 object streams
+ 257 named destinations out of 1000 (max. 500000)
+ 36081 words of extra memory for PDF output out of 42996 (max. 10000000)
 
