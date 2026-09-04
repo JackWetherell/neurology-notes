@@ -30,6 +30,8 @@ The document currently covers the basics of neurology:
 
 12. **The Thalamus**, structure and the nuclear groups, the reticular nucleus as the gate, limbic involvement through the anterior and mediodorsal nuclei, the modality-specific sensory relays and how they are gated by attention and arousal, and the motor loops returning from the basal ganglia and cerebellum.
 
+13. **The Limbic System**, the limbic lobe and the cingulate and parahippocampal gyri, the hippocampus and its trisynaptic circuit, the amygdala, the limbic roles of the hypothalamus and thalamus, the septal area and the habenula, and the system's functions in olfaction, memory, emotional responses, and motivation and behaviour.
+
 Further sections will be added as the lecture series progresses.
 
 ## Files
