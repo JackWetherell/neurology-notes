@@ -29,7 +29,6 @@ The document currently covers the basics of neurology:
 9. **The Insula**, primary gustatory cortex, interoception and visceral sensation, and the anterior insula's role in emotion, disgust, and awareness.
 10. **The Basal Ganglia**, components and the cortex-striatum-thalamus loop, the direct and indirect pathways, dopamine and the D1 and D2 receptors, and the nigrostriatal modulation of movement.
 11. **The Hypothalamus**, structure and nuclei, its role as the output stage of the limbic system, control of the pituitary and the endocrine axes, command of the autonomic nervous system, and the pathways linking it to the hippocampus, amygdala, and prefrontal cortex.
-
 12. **The Thalamus**, structure and the nuclear groups, the reticular nucleus as the gate, limbic involvement through the anterior and mediodorsal nuclei, the modality-specific sensory relays and how they are gated by attention and arousal, and the motor loops returning from the basal ganglia and cerebellum.
 
 13. **The Limbic System**, the limbic lobe and the cingulate and parahippocampal gyri, the hippocampus and its trisynaptic circuit, the amygdala, the limbic roles of the hypothalamus and thalamus, the septal area and the habenula, and the system's functions in olfaction, memory, emotional responses, and motivation and behaviour.
@@ -40,7 +39,7 @@ Further sections will be added as the lecture series progresses.
 
 - `neurology.tex`, the source document.
 - `neurology.pdf`, the compiled PDF (rebuilt from the source).
-- `neurology.aux`, `neurology.log`, `neurology.out`, `neurology.toc`, `neurology.synctex.gz`, LaTeX build artifacts.
+- `neurology.aux`, `neurology.log`, `neurology.out`, `neurology.toc`, LaTeX build artifacts.
 
 ## Building
 

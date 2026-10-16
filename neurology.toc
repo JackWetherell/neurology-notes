@@ -110,65 +110,65 @@
 \contentsline {subsection}{\numberline {7.5}Olfactory Association Cortex}{40}{subsection.7.5}%
 \contentsline {subsection}{\numberline {7.6}Wernicke's Area}{41}{subsection.7.6}%
 \contentsline {subsection}{\numberline {7.7}Summary}{41}{subsection.7.7}%
-\contentsline {section}{\numberline {8}The Occipital Lobe}{41}{section.8}%
-\contentsline {subsection}{\numberline {8.1}Anatomical Landmarks}{41}{subsection.8.1}%
+\contentsline {section}{\numberline {8}The Occipital Lobe}{42}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Anatomical Landmarks}{42}{subsection.8.1}%
 \contentsline {subsection}{\numberline {8.2}Primary Visual Cortex (V1)}{42}{subsection.8.2}%
-\contentsline {subsubsection}{\numberline {8.2.1}Retinotopic Organisation}{42}{subsubsection.8.2.1}%
+\contentsline {subsubsection}{\numberline {8.2.1}Retinotopic Organisation}{43}{subsubsection.8.2.1}%
 \contentsline {subsubsection}{\numberline {8.2.2}Microanatomy}{43}{subsubsection.8.2.2}%
-\contentsline {subsection}{\numberline {8.3}Visual Association Cortex}{43}{subsection.8.3}%
-\contentsline {subsection}{\numberline {8.4}Summary}{43}{subsection.8.4}%
-\contentsline {section}{\numberline {9}The Insula}{44}{section.9}%
-\contentsline {subsection}{\numberline {9.1}Anatomical Landmarks}{44}{subsection.9.1}%
+\contentsline {subsection}{\numberline {8.3}Visual Association Cortex}{44}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Summary}{44}{subsection.8.4}%
+\contentsline {section}{\numberline {9}The Insula}{45}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Anatomical Landmarks}{45}{subsection.9.1}%
 \contentsline {subsection}{\numberline {9.2}Primary Gustatory Cortex}{45}{subsection.9.2}%
-\contentsline {subsection}{\numberline {9.3}Interoception and Visceral Sensation}{45}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.3}Interoception and Visceral Sensation}{46}{subsection.9.3}%
 \contentsline {subsection}{\numberline {9.4}The Anterior Insula: Emotion, Disgust, and Awareness}{46}{subsection.9.4}%
-\contentsline {subsection}{\numberline {9.5}Autonomic and Vestibular Roles}{46}{subsection.9.5}%
-\contentsline {subsection}{\numberline {9.6}Summary}{46}{subsection.9.6}%
-\contentsline {section}{\numberline {10}The Basal Ganglia}{47}{section.10}%
-\contentsline {subsection}{\numberline {10.1}Components}{47}{subsection.10.1}%
-\contentsline {subsection}{\numberline {10.2}The Direct Pathway}{48}{subsection.10.2}%
+\contentsline {subsection}{\numberline {9.5}Autonomic and Vestibular Roles}{47}{subsection.9.5}%
+\contentsline {subsection}{\numberline {9.6}Summary}{47}{subsection.9.6}%
+\contentsline {section}{\numberline {10}The Basal Ganglia}{48}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Components}{48}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}The Direct Pathway}{49}{subsection.10.2}%
 \contentsline {subsection}{\numberline {10.3}The Indirect Pathway}{49}{subsection.10.3}%
-\contentsline {subsection}{\numberline {10.4}Dopamine}{49}{subsection.10.4}%
+\contentsline {subsection}{\numberline {10.4}Dopamine}{50}{subsection.10.4}%
 \contentsline {subsubsection}{\numberline {10.4.1}The D1 and D2 Receptor Families}{50}{subsubsection.10.4.1}%
-\contentsline {subsection}{\numberline {10.5}The Modulatory Pathway}{50}{subsection.10.5}%
-\contentsline {subsection}{\numberline {10.6}Summary}{51}{subsection.10.6}%
-\contentsline {section}{\numberline {11}The Hypothalamus}{51}{section.11}%
+\contentsline {subsection}{\numberline {10.5}The Modulatory Pathway}{51}{subsection.10.5}%
+\contentsline {subsection}{\numberline {10.6}Summary}{52}{subsection.10.6}%
+\contentsline {section}{\numberline {11}The Hypothalamus}{52}{section.11}%
 \contentsline {subsection}{\numberline {11.1}Structure and Components}{52}{subsection.11.1}%
-\contentsline {subsection}{\numberline {11.2}Limbic Involvement}{52}{subsection.11.2}%
-\contentsline {subsection}{\numberline {11.3}Endocrine Involvement}{53}{subsection.11.3}%
+\contentsline {subsection}{\numberline {11.2}Limbic Involvement}{53}{subsection.11.2}%
+\contentsline {subsection}{\numberline {11.3}Endocrine Involvement}{54}{subsection.11.3}%
 \contentsline {subsection}{\numberline {11.4}Autonomic Involvement}{54}{subsection.11.4}%
-\contentsline {subsection}{\numberline {11.5}Pathways}{54}{subsection.11.5}%
-\contentsline {subsection}{\numberline {11.6}Summary}{55}{subsection.11.6}%
-\contentsline {section}{\numberline {12}The Thalamus}{55}{section.12}%
-\contentsline {subsection}{\numberline {12.1}Structure and Components}{56}{subsection.12.1}%
+\contentsline {subsection}{\numberline {11.5}Pathways}{55}{subsection.11.5}%
+\contentsline {subsection}{\numberline {11.6}Summary}{56}{subsection.11.6}%
+\contentsline {section}{\numberline {12}The Thalamus}{56}{section.12}%
+\contentsline {subsection}{\numberline {12.1}Structure and Components}{57}{subsection.12.1}%
 \contentsline {subsection}{\numberline {12.2}Limbic Involvement}{57}{subsection.12.2}%
-\contentsline {subsection}{\numberline {12.3}Sensory Involvement}{57}{subsection.12.3}%
-\contentsline {subsection}{\numberline {12.4}Motor Involvement}{58}{subsection.12.4}%
-\contentsline {subsection}{\numberline {12.5}Summary}{59}{subsection.12.5}%
-\contentsline {section}{\numberline {13}The Limbic System}{61}{section.13}%
+\contentsline {subsection}{\numberline {12.3}Sensory Involvement}{58}{subsection.12.3}%
+\contentsline {subsection}{\numberline {12.4}Motor Involvement}{59}{subsection.12.4}%
+\contentsline {subsection}{\numberline {12.5}Summary}{60}{subsection.12.5}%
+\contentsline {section}{\numberline {13}The Limbic System}{62}{section.13}%
 \contentsline {subsection}{\numberline {13.1}Components}{62}{subsection.13.1}%
 \contentsline {subsubsection}{\numberline {13.1.1}Limbic Lobe}{62}{subsubsection.13.1.1}%
-\contentsline {subsubsection}{\numberline {13.1.2}Hippocampus}{62}{subsubsection.13.1.2}%
-\contentsline {subsubsection}{\numberline {13.1.3}Amygdala}{63}{subsubsection.13.1.3}%
-\contentsline {subsubsection}{\numberline {13.1.4}Hypothalamus}{64}{subsubsection.13.1.4}%
+\contentsline {subsubsection}{\numberline {13.1.2}Hippocampus}{63}{subsubsection.13.1.2}%
+\contentsline {subsubsection}{\numberline {13.1.3}Amygdala}{64}{subsubsection.13.1.3}%
+\contentsline {subsubsection}{\numberline {13.1.4}Hypothalamus}{65}{subsubsection.13.1.4}%
 \contentsline {subsubsection}{\numberline {13.1.5}Thalamus}{65}{subsubsection.13.1.5}%
-\contentsline {subsubsection}{\numberline {13.1.6}Septal Area}{65}{subsubsection.13.1.6}%
+\contentsline {subsubsection}{\numberline {13.1.6}Septal Area}{66}{subsubsection.13.1.6}%
 \contentsline {subsubsection}{\numberline {13.1.7}Habenula}{66}{subsubsection.13.1.7}%
-\contentsline {subsection}{\numberline {13.2}Function}{66}{subsection.13.2}%
-\contentsline {subsubsection}{\numberline {13.2.1}Olfaction}{66}{subsubsection.13.2.1}%
-\contentsline {subsubsection}{\numberline {13.2.2}Memory}{67}{subsubsection.13.2.2}%
-\contentsline {subsubsection}{\numberline {13.2.3}Emotional Responses}{68}{subsubsection.13.2.3}%
-\contentsline {subsubsection}{\numberline {13.2.4}Motivation and Behaviours}{69}{subsubsection.13.2.4}%
-\contentsline {subsection}{\numberline {13.3}Summary}{70}{subsection.13.3}%
-\contentsline {subsection}{\numberline {13.4}A Worked Example: The Bear in the Woods}{71}{subsection.13.4}%
+\contentsline {subsection}{\numberline {13.2}Function}{67}{subsection.13.2}%
+\contentsline {subsubsection}{\numberline {13.2.1}Olfaction}{67}{subsubsection.13.2.1}%
+\contentsline {subsubsection}{\numberline {13.2.2}Memory}{68}{subsubsection.13.2.2}%
+\contentsline {subsubsection}{\numberline {13.2.3}Emotional Responses}{69}{subsubsection.13.2.3}%
+\contentsline {subsubsection}{\numberline {13.2.4}Motivation and Behaviours}{70}{subsubsection.13.2.4}%
+\contentsline {subsection}{\numberline {13.3}Summary}{71}{subsection.13.3}%
+\contentsline {subsection}{\numberline {13.4}A Worked Example: The Bear in the Woods}{72}{subsection.13.4}%
 \contentsline {subsubsection}{\numberline {13.4.1}Arrival: The Sensory Pathways}{72}{subsubsection.13.4.1}%
-\contentsline {subsubsection}{\numberline {13.4.2}Two Roads to the Amygdala}{72}{subsubsection.13.4.2}%
+\contentsline {subsubsection}{\numberline {13.4.2}Two Roads to the Amygdala}{73}{subsubsection.13.4.2}%
 \contentsline {subsubsection}{\numberline {13.4.3}Appraisal: What It Means}{73}{subsubsection.13.4.3}%
-\contentsline {subsubsection}{\numberline {13.4.4}The Autonomic Limb: Under a Second}{73}{subsubsection.13.4.4}%
+\contentsline {subsubsection}{\numberline {13.4.4}The Autonomic Limb: Under a Second}{74}{subsubsection.13.4.4}%
 \contentsline {subsubsection}{\numberline {13.4.5}The Behavioural Limb: The Same Second}{74}{subsubsection.13.4.5}%
-\contentsline {subsubsection}{\numberline {13.4.6}The Arousal Limb: Hundreds of Milliseconds}{74}{subsubsection.13.4.6}%
-\contentsline {subsubsection}{\numberline {13.4.7}The Endocrine Limb: Minutes to Hours}{74}{subsubsection.13.4.7}%
-\contentsline {subsubsection}{\numberline {13.4.8}Feeling: Where the Fear Is Actually Experienced}{74}{subsubsection.13.4.8}%
-\contentsline {subsubsection}{\numberline {13.4.9}Encoding: Why You Will Remember This}{75}{subsubsection.13.4.9}%
-\contentsline {subsubsection}{\numberline {13.4.10}Regulation: Calling It Off}{75}{subsubsection.13.4.10}%
-\contentsline {section}{Taking Stock}{76}{section*.2}%
+\contentsline {subsubsection}{\numberline {13.4.6}The Arousal Limb: Hundreds of Milliseconds}{75}{subsubsection.13.4.6}%
+\contentsline {subsubsection}{\numberline {13.4.7}The Endocrine Limb: Minutes to Hours}{75}{subsubsection.13.4.7}%
+\contentsline {subsubsection}{\numberline {13.4.8}Feeling: Where the Fear Is Actually Experienced}{75}{subsubsection.13.4.8}%
+\contentsline {subsubsection}{\numberline {13.4.9}Encoding: Why You Will Remember This}{76}{subsubsection.13.4.9}%
+\contentsline {subsubsection}{\numberline {13.4.10}Regulation: Calling It Off}{76}{subsubsection.13.4.10}%
+\contentsline {section}{Taking Stock}{77}{section*.2}%
